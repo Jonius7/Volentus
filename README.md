@@ -3,7 +3,7 @@
 
 
 
-This will be a **Minecraft 1.7.10** modpack that contains all the main mods, but plenty of other mods that get left out in modpacks. (378 mods)
+This is a **Minecraft 1.7.10** modpack that contains all the main mods, but plenty of other mods that get left out in modpacks. (380 mods)
 
 
 

@@ -87,47 +87,10 @@
 	type = "example_doggo"
 	findableItems = {
 		{
-			key = "minecraft:slime_ball"
-			maxCount = 2
-			minCount = 1
-			weight = 15
-			limits = { --optional, requirements to allow this item to be found; valid check types: NIGHT, BIOME, HEALTH, MINY, MAXY, PEACEFUL, SKY
-				{
-					check = "is_peaceful"
-					value = false
-				}
-				{
-					check = "biome_id" --ID of the biome the doggo is in
-					value = 6
-				}
-			}
-		}
-		{
 			key = "Satisforestry:paleberry"
 			maxCount = 16
 			minCount = 1
 			weight = 50
-		}
-		{
-			key = "minecraft:bone"
-			maxCount = 4
-			minCount = 1
-			weight = 10
-			nbt = {
-				ench = {
-					0 = {
-						id = 18
-						lvl = 2
-					}
-				}
-			}
-			weightFactors = { --optional, conditionally-applied multipliers to weight; valid check types: NIGHT, BIOME, HEALTH, MINY, MAXY, PEACEFUL, SKY
-				{
-					check = "is_night"
-					factor = 2.5
-					value = true
-				}
-			}
 		}
 		{
 			key = "minecraft:diamond"
@@ -152,13 +115,50 @@
 				}
 				{
 					check = "max_y" --maximum y level of the doggo
-					factor = 2.0
-					value = 16
+					factor = 1.5
+					value = 24
 				}
 				{
 					check = "max_y" --maximum y level of the doggo
-					factor = 1.5
-					value = 24
+					factor = 2.0
+					value = 16
+				}
+			}
+		}
+		{
+			key = "minecraft:bone"
+			maxCount = 4
+			minCount = 1
+			weight = 10
+			nbt = {
+				ench = {
+					0 = {
+						id = 18
+						lvl = 2
+					}
+				}
+			}
+			weightFactors = { --optional, conditionally-applied multipliers to weight; valid check types: NIGHT, BIOME, HEALTH, MINY, MAXY, PEACEFUL, SKY
+				{
+					check = "is_night"
+					factor = 2.5
+					value = true
+				}
+			}
+		}
+		{
+			key = "minecraft:slime_ball"
+			maxCount = 2
+			minCount = 1
+			weight = 15
+			limits = { --optional, requirements to allow this item to be found; valid check types: NIGHT, BIOME, HEALTH, MINY, MAXY, PEACEFUL, SKY
+				{
+					check = "is_peaceful"
+					value = false
+				}
+				{
+					check = "biome_id" --ID of the biome the doggo is in
+					value = 6
 				}
 			}
 		}
