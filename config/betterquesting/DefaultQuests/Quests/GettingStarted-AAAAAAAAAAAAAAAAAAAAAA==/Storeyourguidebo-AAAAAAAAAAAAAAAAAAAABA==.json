@@ -1,0 +1,81 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 0
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "You probably started with all these guidebooks in your inventory. Probably want a place to store them. Here is one of 3 options.\n\n[quest]Akashic Tome[/quest]\n- Add a book: Craft with Tome in crafting grid\n- Change book: §3Right Click§r and select which book you want\n- Transform back into tome: §2Left Click§r air\n- Remove a book: §5Sneak§r and press §5\"drop\"§r key while book is transformed\n\n[quest]Bookcase[/quest]\n- You can §3Right Click§r an empty spot in the bookcase with a book to add it in directly, and §3Shift + Right Click§r to take it out.\n- Right click the bookcase with any other item to open up the interface\n- You can click and drop books into a slot or §3§r§2Shift + Click§r them in.\n\n[quest]Book Binder[/quest]\n- §3Right Click§r to open up the book binder. You can then click and drop books into a slot or §b§r§3§r§2Shift + Click§r them in.\n- Once a book is in the binder you can then §b§r§3Right Click§r the book in the binder to access that book.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "BiblioCraft:Bibliotheca"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Store your guidebooks!",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "minecraft:entity.player.levelup",
+      "snd_update:8": "minecraft:entity.player.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 4,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "akashictome:tome"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "BiblioCraft:Bibliotheca"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "Enchiridion:items"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:crafting_table"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 3
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "You\u0027ll be doing a lot of mining as you level up your Tinkers\u0027 tools (and the ores you can mine), so why not craft some specialised backpacks to carry more stuff! The two you will want for mining are the §1Miner\u0027s Backpack§r (for ores) and the §9Digger\u0027s Backpack§r (for cobblestones).\n\nIf you don\u0027t have enough string, you can grow some §k§r§l§r§dCotton§r from Natura or §dFlax§r from Actually Additions.\n\nYou can §3Shift + Right Click§r while holding the backpack to change its mode.\n- §6Normal§r automatically picks up allowed items\n- §6Locked§r disables auto-pickup\n- §6Receiving§r collects eligible items from other inventories\n- §6Resupply§r automatically refills a stack of an item in your hotbar or inventory as you use it.\n\nYou can also §3Shift + Right Click§r a chest with the backpack to empty it.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "Forestry:minerBag"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Specialised Backpacks",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "minecraft:entity.player.levelup",
+      "snd_update:8": "minecraft:entity.player.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 16,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:minerBag",
+          "tag:10": {
+            "Slots:10": {},
+            "UID:3": 2119148247
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:diggerBag",
+          "tag:10": {
+            "Slots:10": {},
+            "UID:3": 732890167
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 8832476841192211615,
+      "questIDLow:4": -4660996914383902600
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 12
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Water Wheels will be your starting power source for Immersive Engineering.\n\nHere\u0027s a video on how to set up Water Wheels for maximum efficiency (88 RF/t): [url]https://youtu.be/RmUQ-c6qcuY\u0026t\u003d5[/url]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "OreDict:8": "",
+        "id:8": "ImmersiveEngineering:woodenDevice"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Water Wheels",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -7904847902782108813,
+  "questIDLow:4": -4728641594405398553,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 3,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:woodenDevice"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 9,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:metalDevice"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

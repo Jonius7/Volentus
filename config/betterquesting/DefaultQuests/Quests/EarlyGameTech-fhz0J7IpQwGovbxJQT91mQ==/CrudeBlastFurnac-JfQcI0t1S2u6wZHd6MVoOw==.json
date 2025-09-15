@@ -1,0 +1,41 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7904847902782108813,
+      "questIDLow:4": -4728641594405398553
+    },
+    "1:10": {
+      "questIDHigh:4": 7196077932680007170,
+      "questIDLow:4": -7472180295535089916
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §4Crude Blast Furnace§r is your early way of making Steel.\n\nYou can get Blaze Powder without needing to find a Nether Fortress by collecting §6Cinderpearls§r in the Desert, if you want.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "OreDict:8": "",
+        "id:8": "ImmersiveEngineering:stoneDecoration"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Crude Blast Furnace",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 2734841811636145003,
+  "questIDLow:4": -4989546529870747589,
+  "rewards:9": {},
+  "tasks:9": {}
+}

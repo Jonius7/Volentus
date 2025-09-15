@@ -1,0 +1,68 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §4Atelier§r is essential to creating items in FullThrottle Alchemist. You can decompose items into their elemental equivalents (eg: Sulfur, Oxygen, Hydrogen) and store them in §bAlchemical Flasks§r to be used later to create other items.\n\nSetting up an Atelier requires a few other items. You need at least 6 §9Bookshelves§r (in a 2 high by 3 wide rectangle), a §8Cauldron§r filled with water and a §6Crafting Table§r. Place the Crafting Table in the centre and it will transform into an Atelier. It can be powered with a furnace full of coal, or more conveniently, via RF.\n[img height\u003d100]fullthrottle_alchemist:2025-09-14_21.16.30.png[/img]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "Project_Alchemy:block.pa_atelier"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Atelier",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6313493422230163026,
+  "questIDLow:4": -8468821519624137085,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:bookshelf"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:cauldron"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:crafting_table"
+        },
+        "3:10": {
+          "Count:3": 8,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Project_Alchemy:item.pa_flask"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

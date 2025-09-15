@@ -1,0 +1,37 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Sometimes Minecraft can feel overwhelming with so many blocks, items, and recipes to remember. That’s where Not Enough Items (NEI) comes in! NEI is your all-in-one reference guide and crafting assistant.\n\nWith NEI you can:\n- Search for any item in the game by name.\n- View crafting and smelting recipes so you’ll never forget how to make something.\n- Check uses for items (what they can craft into, fuel values, etc).\n🗂- Organize your inventory with filters and sorting.\n\n§lImportant Keys:§r\nHover over an item and press:\n§2§c§4R to see crafting recipe\n§2§9U to see all of its uses\n§a§a§2A to bookmark item or remove bookmark\n§6T to search for item in nearby storage§r\n\nYou can also search for a mod\u0027s items by using the §5@§r prefix, or search by item subset by using the §d%§r prefix.\n\nNEI is an essential tool for navigating large modpacks — learn it well, and you’ll save yourself countless hours of guesswork!",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:paper"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "An Introduction to NotEnoughItems",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6201871939341498179,
+  "questIDLow:4": -8557455029556582114,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

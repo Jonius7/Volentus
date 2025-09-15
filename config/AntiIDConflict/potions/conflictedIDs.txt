@@ -1,6 +1,4 @@
-Total amount of conflicted potion ids: 3
+Total amount of conflicted potion ids: 1
 IDs in conflict:
 
-115 is asked by: witchery:potion.repellattacker (com.emoniph.witchery.brewing.potions.PotionRepellAttacker), AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
-116 is asked by: witchery:potion.attractprojectiles (com.emoniph.witchery.brewing.potions.PotionAttractProjectiles), RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
-150 is asked by: potion.demonFriend (com.LightningCraft.potions.PotionCustom), Fire Fuse (WayofTime.alchemicalWizardry.common.potion.PotionFireFuse)
+40 is asked by: Swift Swim (am2.buffs.ArsMagicaPotion), potion.featherfall (enhancedportals.item.PotionFeatherfall)

@@ -1,6 +1,6 @@
-Total amount of free potion ids: 180
-Total amount of occupied potion ids: 177
-Total amount of conflicted potion ids: 3
+Total amount of free potion ids: 78
+Total amount of occupied potion ids: 178
+Total amount of conflicted potion ids: 1
 All ids and their position:
 0 is Avaible
 1 is Occupied by potion.moveSpeed (net.minecraft.potion.Potion)
@@ -27,39 +27,39 @@ All ids and their position:
 22 is Occupied by potion.absorption (net.minecraft.potion.PotionAbsoption)
 23 is Occupied by potion.saturation (net.minecraft.potion.PotionHealth)
 24 is Occupied by ic2.potion.radiation (ic2.core.IC2Potion)
-25 is Occupied by Flight (am2.buffs.ArsMagicaPotion)
-26 is Occupied by Feather Fall (am2.buffs.ArsMagicaPotion)
-27 is Occupied by Haste (am2.buffs.ArsMagicaPotion)
-28 is Occupied by True Sight (am2.buffs.ArsMagicaPotion)
-29 is Occupied by Regeneration (am2.buffs.ArsMagicaPotion)
-30 is Occupied by Magic Shield (am2.buffs.ArsMagicaPotion)
-31 is Occupied by Charmed (am2.buffs.ArsMagicaPotion)
-32 is Occupied by Frost Slow (am2.buffs.ArsMagicaPotion)
-33 is Occupied by Chrono Anchor (am2.buffs.ArsMagicaPotion)
-34 is Occupied by Mana Regen (am2.buffs.ArsMagicaPotion)
-35 is Occupied by Entangled (am2.buffs.ArsMagicaPotion)
-36 is Occupied by Watery Grave (am2.buffs.ArsMagicaPotion)
-37 is Occupied by Spell Reflect (am2.buffs.ArsMagicaPotion)
-38 is Occupied by Silence (am2.buffs.ArsMagicaPotion)
-39 is Occupied by Swift Swim (am2.buffs.ArsMagicaPotion)
-40 is Occupied by potion.featherfall (enhancedportals.item.PotionFeatherfall)
-41 is Occupied by Leap (am2.buffs.ArsMagicaPotion)
-42 is Occupied by Mana Boost (am2.buffs.ArsMagicaPotion)
-43 is Occupied by Astral Distortion (am2.buffs.ArsMagicaPotion)
-44 is Occupied by Mana Shield (am2.buffs.ArsMagicaPotion)
-45 is Occupied by Fury (am2.buffs.ArsMagicaPotion)
-46 is Occupied by Scramble Synapses (am2.buffs.ArsMagicaPotion)
-47 is Occupied by Illuminated (am2.buffs.ArsMagicaPotion)
-48 is Occupied by Greater Mana Restoration (am2.buffs.ManaPotion)
-49 is Occupied by Epic Mana Restoration (am2.buffs.ManaPotion)
-50 is Occupied by Legendary Mana Restoration (am2.buffs.ManaPotion)
-51 is Occupied by Gravity Well (am2.buffs.ArsMagicaPotion)
-52 is Occupied by Levitation (am2.buffs.ArsMagicaPotion)
-53 is Occupied by Clarity (am2.buffs.ArsMagicaPotion)
-54 is Occupied by Shrunken (am2.buffs.ArsMagicaPotion)
-55 is Occupied by Burnout Redux (am2.buffs.ArsMagicaPotion)
-56 is Occupied by potion.toxin (icbm.classic.content.potion.PoisonToxin)
-57 is Occupied by potion.virus (icbm.classic.content.potion.PoisonContagion)
+25 is Occupied by Water Breathing (am2.buffs.ArsMagicaPotion)
+26 is Occupied by Flight (am2.buffs.ArsMagicaPotion)
+27 is Occupied by Feather Fall (am2.buffs.ArsMagicaPotion)
+28 is Occupied by Haste (am2.buffs.ArsMagicaPotion)
+29 is Occupied by True Sight (am2.buffs.ArsMagicaPotion)
+30 is Occupied by Regeneration (am2.buffs.ArsMagicaPotion)
+31 is Occupied by Magic Shield (am2.buffs.ArsMagicaPotion)
+32 is Occupied by Charmed (am2.buffs.ArsMagicaPotion)
+33 is Occupied by Frost Slow (am2.buffs.ArsMagicaPotion)
+34 is Occupied by Chrono Anchor (am2.buffs.ArsMagicaPotion)
+35 is Occupied by Mana Regen (am2.buffs.ArsMagicaPotion)
+36 is Occupied by Entangled (am2.buffs.ArsMagicaPotion)
+37 is Occupied by Watery Grave (am2.buffs.ArsMagicaPotion)
+38 is Occupied by Spell Reflect (am2.buffs.ArsMagicaPotion)
+39 is Occupied by Silence (am2.buffs.ArsMagicaPotion)
+40 is asked by: Swift Swim (am2.buffs.ArsMagicaPotion), potion.featherfall (enhancedportals.item.PotionFeatherfall)
+41 is Occupied by Agility (am2.buffs.ArsMagicaPotion)
+42 is Occupied by Leap (am2.buffs.ArsMagicaPotion)
+43 is Occupied by Mana Boost (am2.buffs.ArsMagicaPotion)
+44 is Occupied by Astral Distortion (am2.buffs.ArsMagicaPotion)
+45 is Occupied by Mana Shield (am2.buffs.ArsMagicaPotion)
+46 is Occupied by Fury (am2.buffs.ArsMagicaPotion)
+47 is Occupied by Scramble Synapses (am2.buffs.ArsMagicaPotion)
+48 is Occupied by Illuminated (am2.buffs.ArsMagicaPotion)
+49 is Occupied by Greater Mana Restoration (am2.buffs.ManaPotion)
+50 is Occupied by Epic Mana Restoration (am2.buffs.ManaPotion)
+51 is Occupied by Legendary Mana Restoration (am2.buffs.ManaPotion)
+52 is Occupied by Gravity Well (am2.buffs.ArsMagicaPotion)
+53 is Occupied by Levitation (am2.buffs.ArsMagicaPotion)
+54 is Occupied by Clarity (am2.buffs.ArsMagicaPotion)
+55 is Occupied by Shrunken (am2.buffs.ArsMagicaPotion)
+56 is Occupied by Burnout Redux (am2.buffs.ArsMagicaPotion)
+57 is Occupied by Psychedelic (am2.buffs.ArsMagicaPotion)
 58 is Occupied by witchery:potion.paralysed (com.emoniph.witchery.brewing.potions.PotionParalysis)
 59 is Occupied by witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
 60 is Occupied by witchery:potion.spiked (com.emoniph.witchery.brewing.potions.PotionSpiked)
@@ -89,7 +89,7 @@ All ids and their position:
 84 is Occupied by Yellow Curse (pixlepix.auracascade.potions.PotionYellowCurse)
 85 is Occupied by potion.fluxtaint (thaumcraft.api.potions.PotionFluxTaint)
 86 is Occupied by Fire Imbued (thaumic.tinkerer.common.potion.DummyPotions)
-87 is Occupied by Wated Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+87 is Occupied by Water Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 88 is Occupied by witchery:potion.absorbmagic (com.emoniph.witchery.brewing.potions.PotionAbsorbMagic)
 89 is Occupied by Earth Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 90 is Occupied by Air Imbued (thaumic.tinkerer.common.potion.DummyPotions)
@@ -104,32 +104,32 @@ All ids and their position:
 99 is Occupied by witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship)
 100 is Occupied by witchery:potion.keepeffects (com.emoniph.witchery.brewing.potions.PotionKeepEffectsOnDeath)
 101 is Occupied by witchery:potion.wolfsbane (com.emoniph.witchery.brewing.potions.PotionBase)
-102 is Occupied by Water Breathing (am2.buffs.ArsMagicaPotion)
-103 is Occupied by Agility (am2.buffs.ArsMagicaPotion)
-104 is Occupied by potion.frostBite (icbm.classic.content.potion.PoisonFrostBite)
+102 is Occupied by potion.visexhaust (thaumcraft.api.potions.PotionVisExhaust)
+103 is Occupied by potion.infvisexhaust (thaumcraft.common.lib.potions.PotionInfectiousVisExhaust)
+104 is Occupied by potion.unhunger (thaumcraft.common.lib.potions.PotionUnnaturalHunger)
 105 is Occupied by  (speiger.src.spmodapi.common.potions.PotionAddiction)
 106 is Occupied by potion.chemical (stevekung.mods.moreplanets.planets.kapteynb.potion.ChemicalEffect)
 107 is Occupied by potion.emp (stevekung.mods.moreplanets.planets.diona.potion.EMPEffect)
 108 is Occupied by potion.icy_poison (stevekung.mods.moreplanets.planets.kapteynb.potion.IceCrystalEffect)
 109 is Occupied by potion.infected.gas (stevekung.mods.moreplanets.planets.nibiru.potion.InfectedGasEffect)
-110 is Occupied by potion.visexhaust (thaumcraft.api.potions.PotionVisExhaust)
-111 is Occupied by potion.infvisexhaust (thaumcraft.common.lib.potions.PotionInfectiousVisExhaust)
+110 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
+111 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
 112 is Occupied by witchery:potion.gasmask (com.emoniph.witchery.brewing.potions.PotionGasMask)
 113 is Occupied by witchery:potion.reflectdamage (com.emoniph.witchery.brewing.potions.PotionReflectDamage)
 114 is Occupied by witchery:potion.stoutbelly (com.emoniph.witchery.brewing.potions.PotionStoutBelly)
-115 is asked by: witchery:potion.repellattacker (com.emoniph.witchery.brewing.potions.PotionRepellAttacker), AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
-116 is asked by: witchery:potion.attractprojectiles (com.emoniph.witchery.brewing.potions.PotionAttractProjectiles), RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
+115 is Occupied by AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
+116 is Occupied by RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
 117 is Occupied by witchery:potion.feelnopain (com.emoniph.witchery.brewing.potions.PotionFeelNoPain)
 118 is Occupied by witchery:potion.enslaved (com.emoniph.witchery.brewing.potions.PotionEnslaved)
 119 is Occupied by witchery:potion.mortalcoil (com.emoniph.witchery.brewing.potions.PotionMortalCoil)
 120 is Occupied by witchery:potion.poisonweapons (com.emoniph.witchery.brewing.potions.PotionPoisonWeapons)
 121 is Occupied by witchery:potion.reflectprojectiles (com.emoniph.witchery.brewing.potions.PotionReflectProjectiles)
-122 is Occupied by potion.unhunger (thaumcraft.common.lib.potions.PotionUnnaturalHunger)
-123 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
+122 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
+123 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
 124 is Occupied by Frozen Solid (Reika.RotaryCraft.Auxiliary.FreezePotion)
-125 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
-126 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
-127 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
+125 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
+126 is Avaible
+127 is Avaible
 128 is Avaible
 129 is Avaible
 130 is Occupied by immersiveengineering.potion.conductive (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
@@ -152,7 +152,7 @@ All ids and their position:
 147 is Occupied by Demon Cloaking (WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak)
 148 is Occupied by Drowning (WayofTime.alchemicalWizardry.common.potion.PotionDrowning)
 149 is Occupied by Feather Fall (WayofTime.alchemicalWizardry.common.potion.PotionFeatherFall)
-150 is asked by: potion.demonFriend (com.LightningCraft.potions.PotionCustom), Fire Fuse (WayofTime.alchemicalWizardry.common.potion.PotionFireFuse)
+150 is Occupied by Fire Fuse (WayofTime.alchemicalWizardry.common.potion.PotionFireFuse)
 151 is Occupied by Flame Cloak (WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak)
 152 is Occupied by Flight (WayofTime.alchemicalWizardry.common.potion.PotionFlight)
 153 is Occupied by Heavy Heart (WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart)
@@ -188,9 +188,9 @@ All ids and their position:
 183 is Occupied by witchery:potion.enderinhibition (com.emoniph.witchery.brewing.potions.PotionEnderInhibition)
 184 is Occupied by witchery:potion.illfitting (com.emoniph.witchery.brewing.potions.PotionIllFitting)
 185 is Occupied by witchery:potion.volatility (com.emoniph.witchery.brewing.potions.PotionVolatility)
-186 is Avaible
-187 is Avaible
-188 is Avaible
+186 is Occupied by witchery:potion.repellattacker (com.emoniph.witchery.brewing.potions.PotionRepellAttacker)
+187 is Occupied by witchery:potion.attractprojectiles (com.emoniph.witchery.brewing.potions.PotionAttractProjectiles)
+188 is Occupied by potion.demonFriend (com.LightningCraft.potions.PotionCustom)
 189 is Avaible
 190 is Avaible
 191 is Avaible
@@ -257,105 +257,4 @@ All ids and their position:
 252 is Avaible
 253 is Avaible
 254 is Avaible
-255 is Avaible
-256 is Avaible
-257 is Avaible
-258 is Avaible
-259 is Avaible
-260 is Avaible
-261 is Avaible
-262 is Avaible
-263 is Avaible
-264 is Avaible
-265 is Avaible
-266 is Avaible
-267 is Avaible
-268 is Avaible
-269 is Avaible
-270 is Avaible
-271 is Avaible
-272 is Avaible
-273 is Avaible
-274 is Avaible
-275 is Avaible
-276 is Avaible
-277 is Avaible
-278 is Avaible
-279 is Avaible
-280 is Avaible
-281 is Avaible
-282 is Avaible
-283 is Avaible
-284 is Avaible
-285 is Avaible
-286 is Avaible
-287 is Avaible
-288 is Avaible
-289 is Avaible
-290 is Avaible
-291 is Avaible
-292 is Avaible
-293 is Avaible
-294 is Avaible
-295 is Avaible
-296 is Avaible
-297 is Avaible
-298 is Avaible
-299 is Avaible
-300 is Avaible
-301 is Avaible
-302 is Avaible
-303 is Avaible
-304 is Avaible
-305 is Avaible
-306 is Avaible
-307 is Avaible
-308 is Avaible
-309 is Avaible
-310 is Avaible
-311 is Avaible
-312 is Avaible
-313 is Avaible
-314 is Avaible
-315 is Avaible
-316 is Avaible
-317 is Avaible
-318 is Avaible
-319 is Avaible
-320 is Avaible
-321 is Avaible
-322 is Avaible
-323 is Avaible
-324 is Avaible
-325 is Avaible
-326 is Avaible
-327 is Avaible
-328 is Avaible
-329 is Avaible
-330 is Avaible
-331 is Avaible
-332 is Avaible
-333 is Avaible
-334 is Avaible
-335 is Avaible
-336 is Avaible
-337 is Avaible
-338 is Avaible
-339 is Avaible
-340 is Avaible
-341 is Avaible
-342 is Avaible
-343 is Avaible
-344 is Avaible
-345 is Avaible
-346 is Avaible
-347 is Avaible
-348 is Avaible
-349 is Avaible
-350 is Avaible
-351 is Avaible
-352 is Avaible
-353 is Avaible
-354 is Avaible
-355 is Avaible
-356 is Occupied by Delirium (minechem.potion.PotionProvider)
+255 is Occupied by Delirium (minechem.potion.PotionProvider)

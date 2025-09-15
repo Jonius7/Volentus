@@ -1,0 +1,34 @@
+{
+    "url": [
+        {
+            "installationPolicy": {
+                "continueOnFailedDownload": true,
+                "optionalKey": "$",
+                "selectedByDefault": true,
+                "description": "IC2 Addon. PLEASE DOWNLOAD MANUALLY FROM MEDIAFIRE LINK.",
+                "name": "BioMaterials"
+            },
+            "url": "http://www.mediafire.com/download/ov0el11938k7suy/BioMaterials-1.7.10-4.1.1.jar"
+        },
+        {
+            "installationPolicy": {
+                "continueOnFailedDownload": true,
+                "optionalKey": "$",
+                "selectedByDefault": true,
+                "description": "IC2 Addon. PLEASE DOWNLOAD MANUALLY FROM MEDIAFIRE LINK.",
+                "name": "Turbo"
+            },
+            "url": "http://www.mediafire.com/download/9mrk2wq4brar0yd/Turbo-1.7.10-1.2.0.jar"
+        },
+        {
+            "installationPolicy": {
+                "continueOnFailedDownload": true,
+                "optionalKey": "$",
+                "selectedByDefault": true,
+                "description": "IC2 Addon. PLEASE DOWNLOAD MANUALLY FROM MEDIAFIRE LINK.",
+                "name": "IC2 Tweaks"
+            },
+            "url": "http://www.mediafire.com/download/crvplypounhk8r1/IC2Tweaks-1.7.10-1.2.0.jar"
+        }
+    ]
+}

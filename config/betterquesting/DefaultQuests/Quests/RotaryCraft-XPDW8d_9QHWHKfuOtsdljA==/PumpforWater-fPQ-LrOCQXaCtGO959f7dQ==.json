@@ -1,0 +1,70 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -5951234015387565479,
+      "questIDLow:4": -9133535916028915919
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The Pump is used to pump fluids (such as §1Water§r) into other machines.\nYou will also need some Liquid Pipe.\n\nTo power the Pump with the DC Electric Engine, you will want a gearbox to increase the torque, as the Pump requires §98 Nm§r of Torque while the Engine provides §94Nm§r.\n\nA §62:1 Wood Gearbox§r in Torque mode should suffice.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 16,
+        "OreDict:8": "",
+        "id:8": "RotaryCraft:rotarycraft_item_machine"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Pump - for Water",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 9003889925321539958,
+  "questIDLow:4": -9028481685681341579,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 16,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_machine"
+        },
+        "1:10": {
+          "Count:3": 8,
+          "Damage:2": 17,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_machine"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_gearbox",
+          "tag:10": {
+            "type:8": "WOOD"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

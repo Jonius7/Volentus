@@ -1,4 +1,4 @@
-Total amount of conflicted biome ids: 29
+Total amount of conflicted biome ids: 30
 IDs in conflict:
 
 0 is asked by: Ocean (net.minecraft.world.biome.BiomeGenOcean), Ocean (biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
@@ -30,3 +30,4 @@ IDs in conflict:
 37 is asked by: Mesa (net.minecraft.world.biome.BiomeGenMesa), Mesa (biomesoplenty.common.biome.overridden.BiomeGenBOPMesa)
 38 is asked by: Mesa Plateau F (net.minecraft.world.biome.BiomeGenMesa), Mesa Plateau F (biomesoplenty.common.biome.overridden.BiomeGenBOPMesa)
 39 is asked by: Mesa Plateau (net.minecraft.world.biome.BiomeGenMesa), Mesa Plateau (biomesoplenty.common.biome.overridden.BiomeGenBOPMesa)
+100 is asked by: Kelp Forest (biomesoplenty.common.biome.overworld.ocean.BiomeGenKelpForest), WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)

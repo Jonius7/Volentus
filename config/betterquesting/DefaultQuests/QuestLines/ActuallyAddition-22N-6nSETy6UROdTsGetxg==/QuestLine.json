@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "A lot of really cool additions/machines to make your life easier.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ActuallyAdditions:blockAtomicReconstructor"
+      },
+      "name:8": "Actually Additions",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": -2638125411266703570,
+  "questLineIDLow:4": -7762825511052005946
+}

@@ -1,0 +1,50 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[note]You can choose to build either the Railcraft Coke Oven or the Immersive Engineering Coke Oven.[/note]\n\nThe Coke Oven is a way of turning Coal into the longer-lasting Coal Coke. To form the Coke Oven you need 26 §8§6Coke Oven Bricks§r to form a 3x3x3 cube with a hollow centre. Once placed down, the structure will form automatically and you can access the interface by right clicking any part of the structure.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "OreDict:8": "",
+        "id:8": "Railcraft:machine.alpha"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Coke Oven (Railcraft)",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 7637870398881219126,
+  "questIDLow:4": -7019531203742077656,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 26,
+          "Damage:2": 7,
+          "OreDict:8": "",
+          "id:8": "Railcraft:machine.alpha"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

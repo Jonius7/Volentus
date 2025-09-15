@@ -1,6 +1,6 @@
 Total amount of free biome ids: 59
 Total amount of occupied biome ids: 197
-Total amount of conflicted biome ids: 29
+Total amount of conflicted biome ids: 30
 All ids and their position:
 0 is asked by: Ocean (net.minecraft.world.biome.BiomeGenOcean), Ocean (biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
 1 is asked by: Plains (net.minecraft.world.biome.BiomeGenPlains), Plains (biomesoplenty.common.biome.overridden.BiomeGenBOPPlains)
@@ -102,7 +102,7 @@ All ids and their position:
 97 is Occupied by Woodland (biomesoplenty.common.biome.overworld.BiomeGenWoodland)
 98 is Occupied by Xeric Shrubland (biomesoplenty.common.biome.overworld.BiomeGenXericShrubland)
 99 is Occupied by Coral Reef (biomesoplenty.common.biome.overworld.ocean.BiomeGenCoralReef)
-100 is Occupied by Kelp Forest (biomesoplenty.common.biome.overworld.ocean.BiomeGenKelpForest)
+100 is asked by: Kelp Forest (biomesoplenty.common.biome.overworld.ocean.BiomeGenKelpForest), WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)
 101 is Occupied by Tropics (biomesoplenty.common.biome.overworld.sub.BiomeGenTropics)
 102 is Occupied by Volcano (biomesoplenty.common.biome.overworld.sub.BiomeGenVolcano)
 103 is Occupied by Mangrove (biomesoplenty.common.biome.overworld.sub.BiomeGenMangrove)
@@ -170,7 +170,7 @@ All ids and their position:
 165 is Occupied by Mesa (Bryce) (net.minecraft.world.biome.BiomeGenMesa)
 166 is Occupied by Mesa Plateau F M (net.minecraft.world.biome.BiomeGenMesa)
 167 is Occupied by Mesa Plateau M (net.minecraft.world.biome.BiomeGenMesa)
-168 is Occupied by WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)
+168 is Avaible
 169 is Avaible
 170 is Occupied by moon (micdoodle8.mods.galacticraft.core.world.gen.BiomeGenFlatMoon)
 171 is Occupied by marsFlat (micdoodle8.mods.galacticraft.planets.mars.world.gen.BiomeGenFlatMars)
@@ -192,8 +192,8 @@ All ids and their position:
 187 is Avaible
 188 is Avaible
 189 is Avaible
-190 is Avaible
-191 is Avaible
+190 is Occupied by Kelp Forest (Reika.GeoStrata.World.BiomeKelpForest)
+191 is Occupied by Arctic Spires (Reika.GeoStrata.World.BiomeArcticSpires)
 192 is Occupied by Tainted Land (thaumcraft.common.lib.world.biomes.BiomeGenTaint)
 193 is Occupied by Magical Forest (thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest)
 194 is Occupied by Eerie (thaumcraft.common.lib.world.biomes.BiomeGenEerie)
@@ -257,4 +257,4 @@ All ids and their position:
 252 is Occupied by Purple Maple Forest (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenPurpleMapleForest)
 253 is Occupied by Sirius B (stevekung.mods.moreplanets.planets.siriusb.worldgen.BiomeGenBaseSiriusB)
 254 is Occupied by Venus (stevekung.mods.moreplanets.planets.venus.worldgen.BiomeGenBaseVenus)
-255 is Occupied by Pink Birch Forest (Reika.Satisforestry.Biome.BiomePinkForest)
+255 is Avaible

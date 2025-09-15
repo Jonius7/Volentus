@@ -1,0 +1,73 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -6229469441961603812,
+      "questIDLow:4": -6170134410655625411
+    },
+    "1:10": {
+      "questIDHigh:4": 7637870398881219126,
+      "questIDLow:4": -7019531203742077656
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Processing Coal in a Coke Oven gives you §6Creosote Oil§r as a byproduct.\n\nFor the Railcraft Coke Oven you can right click the oven itself with a bucket or use the interface\u0027s right slots to fill the bucket with Creosote Oil.\nYou can also use tanks such as IE\u0027s §2Jerrycan§r or Mekanism\u0027s §8Fluid Tank§r to pull out more than 1 bucket worth of Creosote at a time.\n\nFor the Immersive Engineering Coke Oven you use the interface\u0027s right slots to fill the bucket with Creosote Oil.\n\nYou can also use pipes eg: Thermal Dynamics\u0027 §1Fluiducts§r to transfer the fluid to a tank.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "OreDict:8": "",
+        "id:8": "ImmersiveEngineering:fluidContainers"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Creosote Oil",
+      "questLogic:8": "OR",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": -14223697200332194,
+  "questIDLow:4": -8036750556334172596,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:tool"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:fluidContainers"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

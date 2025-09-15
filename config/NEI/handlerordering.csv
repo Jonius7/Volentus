@@ -46,6 +46,8 @@ WayofTime.alchemicalWizardry.client.nei.NEIBindingRitualHandler,0
 WayofTime.alchemicalWizardry.client.nei.NEIBloodOrbShapedHandler,0
 WayofTime.alchemicalWizardry.client.nei.NEIBloodOrbShapelessHandler,0
 advsolar.client.nei.MTRecipeHandler,0
+alchemicalwizardry.calcinator,0
+alchemicalwizardry.meteor,0
 appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIFacadeRecipeHandler,0
@@ -54,6 +56,17 @@ appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIWorldCraftingHandler,0
 aroma1997.core.recipes.nei.ShapedAromicRecipeHandler,0
 aroma1997.core.recipes.nei.ShapelessAromicRecipeHandler,0
+binnie.extratrees.nei.NEIHandlerLumbermill,0
+binnie.genetics.nei.AcclimatiserRecipeHandler,0
+binnie.genetics.nei.AnalyserRecipeHandler,0
+binnie.genetics.nei.DatabaseRecipeHandler,0
+binnie.genetics.nei.GenepoolRecipeHandler,0
+binnie.genetics.nei.IncubatorRecipeHandler,0
+binnie.genetics.nei.InoculatorRecipeHandler,0
+binnie.genetics.nei.IsolatorRecipeHandler,0
+binnie.genetics.nei.PolymeriserRecipeHandler,0
+binnie.genetics.nei.SequencerRecipeHandler,0
+binnie.genetics.nei.SplicerRecipeHandler,0
 blusunrize.immersiveengineering.client.nei.NEIArcFurnaceHandler,0
 blusunrize.immersiveengineering.client.nei.NEIBlastFurnaceHandler,0
 blusunrize.immersiveengineering.client.nei.NEIBlueprintHandler,0
@@ -74,6 +87,14 @@ buildcraft.compat.nei.RecipeHandlerRefinery,0
 buildcraftAdditions.compat.nei.DustingRecipeHandler,0
 buildcraftAdditions.compat.nei.RecipeHandlerCoolingTower,0
 buildcraftAdditions.compat.nei.RecipeHandlerRefinery,0
+cd4017be.automation.neiPlugin.AdvFurnaceRecipeHandler,0
+cd4017be.automation.neiPlugin.BedrockRecipeHandler,0
+cd4017be.automation.neiPlugin.CompressorRecipeHandler,0
+cd4017be.automation.neiPlugin.DecompCoolerRecipeHandler,0
+cd4017be.automation.neiPlugin.ElectrolyserRecipeHandler,0
+cd4017be.automation.neiPlugin.GraviCondenserRecipeHandler,0
+cn.academy.support.nei.FusorRecipeHandler,0
+cn.academy.support.nei.MetalFormerRecipeHandler,0
 codechicken.nei.recipe.BrewingRecipeHandler,0
 codechicken.nei.recipe.FireworkRecipeHandler,0
 codechicken.nei.recipe.FuelRecipeHandler,0
@@ -94,6 +115,7 @@ cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerSmelter,0
 cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerTransposer,0
 com.InfinityRaider.AgriCraft.compatibility.NEI.NEICropMutationHandler,0
 com.InfinityRaider.AgriCraft.compatibility.NEI.NEICropProductHandler,0
+com.brandon3055.draconicevolution.integration.nei.ReactorNEIHandler,0
 com.cout970.magneticraft.compat.nei.CraftingBiomassBurner,0
 com.cout970.magneticraft.compat.nei.CraftingCrusher,0
 com.cout970.magneticraft.compat.nei.CraftingGrinder,0
@@ -159,6 +181,7 @@ fox.spiteful.avaritia.compat.nei.ExtremeShapelessRecipeHandler,0
 galaxyspace.core.nei.rocket.RocketT1RecipeHandler,0
 galaxyspace.core.nei.rocket.RocketT2RecipeHandler,0
 galaxyspace.core.nei.rocket.RocketT3RecipeHandler,0
+gcewing.projectblue.nei.NEIRecipeHandler,0
 hellfirepvp.beebetteratbees.client.gui.BBABGuiRecipeTreeHandler,0
 ic2.neiIntegration.core.recipehandler.AdvRecipeHandler,0
 ic2.neiIntegration.core.recipehandler.AdvShapelessRecipeHandler,0
@@ -280,6 +303,7 @@ pa.main.integration.NEI.FreezeHandler,0
 pa.main.integration.NEI.GrindHandler,0
 pa.main.integration.NEI.MisshapedPACraftingHandler,0
 pa.main.integration.NEI.ShapedPACraftingHandler,0
+physica.core.client.nei.CircuitPressRecipeHelper,0
 pneumaticCraft.common.thirdparty.nei.NEIAmadronTradeManager,0
 pneumaticCraft.common.thirdparty.nei.NEIAssemblyControllerRecipeManager,0
 pneumaticCraft.common.thirdparty.nei.NEIEtchingAcidManager,0
@@ -291,7 +315,10 @@ pneumaticCraft.common.thirdparty.nei.NEIUVLightBoxManager,0
 redgear.brewcraft.plugins.nei.NEIBreweryRecipeHandler,0
 ru.timeconqueror.tcneiadditions.nei.AspectCombinationHandler,0
 ru.timeconqueror.tcneiadditions.nei.AspectFromItemStackHandler,0
+ru.timeconqueror.tcneiadditions.nei.TCNACrucibleRecipeHandler,0
+ru.timeconqueror.tcneiadditions.nei.TCNAInfusionRecipeHandler,0
 ru.timeconqueror.tcneiadditions.nei.arcaneworkbench.ArcaneCraftingShapedHandler,0
+ru.timeconqueror.tcneiadditions.nei.arcaneworkbench.ArcaneCraftingShapelessHandler,0
 ru.wirelesstools.nei.NeiPFPConverter,0
 sonar.calculator.mod.integration.nei.handlers.AtomicRecipeHandler,0
 sonar.calculator.mod.integration.nei.handlers.CalculatorDischargeHandler,0
@@ -320,6 +347,7 @@ sonar.calculator.mod.integration.nei.handlers.ProcessingHandlers$ReinforcedFurna
 sonar.calculator.mod.integration.nei.handlers.ProcessingHandlers$RestorationChamber,0
 sonar.calculator.mod.integration.nei.handlers.ScientificRecipeHandler,0
 sonar.logistics.integration.nei.HammerNEIHandler,0
+speiger.src.crops.prediction.NEIPlugin,0
 speiger.src.spmodapi.common.plugins.Nei.core.MobMachineInfo,0
 speiger.src.spmodapi.common.plugins.Nei.core.SqeezingCompressorInfo,0
 stevekung.mods.moreplanets.planets.fronos.nei.CandyExtractorRecipeHandler,0
@@ -330,6 +358,8 @@ tconstruct.plugins.nei.RecipeHandlerDryingRack,0
 tconstruct.plugins.nei.RecipeHandlerMelting,0
 tconstruct.plugins.nei.RecipeHandlerToolMaterials,0
 team.chisel.compat.nei.RecipeHandlerChisel,0
+tombenpotter.sanguimancy.compat.nei.NEIBloodCleanser,0
+tombenpotter.sanguimancy.compat.nei.NEICorruptedInfusion,0
 tonius.neiintegration.mods.bigreactors.RecipeHandlerCyaniteReprocessor,0
 tonius.neiintegration.mods.electricalage.RecipeHandlerCompressor,0
 tonius.neiintegration.mods.electricalage.RecipeHandlerMacerator,0

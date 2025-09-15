@@ -1,0 +1,45 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 9003889925321539958,
+      "questIDLow:4": -9028481685681341579
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "In the previous quest, you crafted a §6Wooden 2:1 Gearbox§r in order for the §8DC Electric Engine§r to power the pump. You will need plenty of Gearboxes in the future to convert differing values of §2Torque (Nm)§r and §cSpeed (rad/s)§r.\n\nIt so happens that §6Wooden Gearboxes§r work out of the box, but have a low Torque and Speed capacity §2§5(278 Nm at 3577 rad/s)§r. If it is given shaft power exceeding either of these values the gearbox will break and explode.\n\nSo you will need to construct Gearboxes out of a sturdier material (Stone, HSLA Steel, Diamond etc). These higher tier Gearboxes however require §eLubricant§r to function properly or they will §4become damaged§r as they operate.\n- §5Stone to Tungsten Gearboxes§r require constant §eLubricant§r as they operate.\n- §bDiamond Gearboxes§r can take 1 bucket worth of §eLubricant§r but will not consume it\n- §8Bedrock Gearboxes§r do not need §eLubricant§r at all\n\nYou can repair §4damaged§r gearboxes by §3right-clicking§r them with §6gears§r of the corresponding material.\n\nGearboxes can be changed between §2Torque mode§r and §cSpeed mode§r by §3Shift + Right§r clicking the gearbox.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "OreDict:8": "",
+        "id:8": "RotaryCraft:rotarycraft_item_gearbox",
+        "tag:10": {
+          "type:8": "STEEL"
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Gearboxes",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3829780724194064185,
+  "questIDLow:4": -7958675850322993189,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

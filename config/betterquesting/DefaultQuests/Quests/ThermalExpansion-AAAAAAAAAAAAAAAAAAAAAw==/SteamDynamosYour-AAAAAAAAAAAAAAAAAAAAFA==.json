@@ -1,0 +1,116 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Most machines in Thermal Expansion require some sort of power, Thermal Expansion uses Redstone Flux (RF) as its power units.\n\n§8Steam Dynamos§r will allow you to generate RF with Coal. You just need to fill them with water. To do that you can use an §1Aqueous Accumulator§r. An Aqueous Accumulator needs two water source blocks on either side of it. You can then use a §6Fluiduct§r to pipe the water into the dynamo, or for starters just place the Steam Dynamo on top, as shown below.\n\n[img height\u003d100]thermal_expansion:2025-09-14_11.35.25.png[/img]\n\nThe power is produced out through the side with the red bulb-like thing, you can connect machines with §4Fluxducts§r that can transfer the RF power.\n\n",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ThermalExpansion:Dynamo",
+        "tag:10": {
+          "Augments:9": {
+            "0:10": {
+              "Count:1": 1,
+              "Damage:2": 32,
+              "Slot:3": 0,
+              "id:2": 5142
+            }
+          },
+          "Energy:3": 0,
+          "Facing:1": 1,
+          "RSControl:1": 0
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Steam Dynamos - Your First Power",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "minecraft:entity.player.levelup",
+      "snd_update:8": "minecraft:entity.player.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 20,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Dynamo",
+          "tag:10": {
+            "Augments:9": {
+              "0:10": {
+                "Count:1": 1,
+                "Damage:2": 32,
+                "Slot:3": 0,
+                "id:2": 5142
+              }
+            },
+            "Energy:3": 0,
+            "Facing:1": 1,
+            "RSControl:1": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 8,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Machine",
+          "tag:10": {
+            "Augments:9": {
+              "0:10": {
+                "Count:1": 1,
+                "Damage:2": 0,
+                "Slot:3": 0,
+                "id:2": 5142
+              },
+              "1:10": {
+                "Count:1": 1,
+                "Damage:2": 32,
+                "Slot:3": 1,
+                "id:2": 5142
+              },
+              "2:10": {
+                "Count:1": 1,
+                "Damage:2": 16,
+                "Slot:3": 2,
+                "id:2": 5142
+              }
+            },
+            "Energy:3": 0,
+            "Facing:1": 3,
+            "Level:1": 0,
+            "RSControl:1": 0,
+            "SideCache:7": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

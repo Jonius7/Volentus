@@ -1,0 +1,58 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1997306523399272370,
+      "questIDLow:4": -7251683255540744737
+    },
+    "1:10": {
+      "questIDHigh:4": -1622445814621188611,
+      "questIDLow:4": -7772535624642922443
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Now that you are able to acquire obsidian, build a nether portal (minimum 10 obsidian for a 5 high by 4 wide portal, minus the corners), light it with §8Flint and Steel§r, and enter the §4Nether§r.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:netherrack"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Enter the Nether",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 5821791681467467954,
+  "questIDLow:4": -8241679069701035789,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "biome:3": -1,
+      "dimension:3": -1,
+      "hideInfo:1": 0,
+      "index:3": 0,
+      "invert:1": 0,
+      "name:8": "The Nether",
+      "posX:3": 0,
+      "posY:3": 0,
+      "posZ:3": 0,
+      "range:3": 50000,
+      "structure:8": "",
+      "taskID:8": "bq_standard:location",
+      "taxiCabDist:1": 0,
+      "visible:1": 0
+    }
+  }
+}

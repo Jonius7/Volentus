@@ -1,0 +1,56 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The next mining level requires either §dPig Iron§r, §8Steel§r, §bHSLA Steel§r or §9Osmium§r (but you probably want to save your Osmium for Mekanism machines). Let\u0027s go with Steel. There are many ways to make Steel, but with Tinkers\u0027 Construct you are going to want to mix Iron with §8Liquefacted Coal§r in a smeltery.\n\nThat\u0027s where the §bQuartz Grindstone§r comes in. It can grind down ores into dusts, including coal, and coal dust can be melted in a smeltery to make Liquefacted Coal. Craft a Quartz Grindstone with a §6Wooden Crank§r now and try it.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "appliedenergistics2:tile.BlockGrinder"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Quartz Grinder",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "minecraft:entity.player.levelup",
+      "snd_update:8": "minecraft:entity.player.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "HIDDEN"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 19,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "appliedenergistics2:tile.BlockGrinder"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "appliedenergistics2:tile.BlockCrank"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 8832476841192211615,
+      "questIDLow:4": -4660996914383902600
+    },
+    "1:10": {
+      "questIDHigh:4": 5153337715369331226,
+      "questIDLow:4": -7437729272822666336
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 12
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§2Storage Crates§r actually have a more involved recipe than the default, for balancing purposes, due to how much they store. If they were just made out of wood components like the default, they\u0027d obsolete §7§8Iron Chests§r and §eBetter Storage§r, two other mods for storage.\n\nYou will need a§r §0§r§8Black Quart§r§0§r§8z§r and 4 §7Iron Ingots§r for the Iron Casing. For the Storage Crate itself you will also need two §bDiamonds§r and some §4Treated Wood§r from Immersive Engineering.\n\nYou can also upgrade existing chests (§2Chest to Storage Crate Upgrade§r) by crafting the Storage Crate with some Wood Planks.\n\nTo move around a Storage Crate, you want to put a §5Storage Crate Keeper§r inside it. The Storage Crate will then keep its contents when you break it.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ActuallyAdditions:blockGiantChest"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Storage Crates",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -1901774414313470770,
+  "questIDLow:4": -8093608341547207768,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ActuallyAdditions:itemCrateKeeper"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ActuallyAdditions:blockGiantChest"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ActuallyAdditions:itemChestToCrateUpgrade"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "Machines and Tools that can help with big projects!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:book"
+      },
+      "name:8": "Inductive Automation",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": -8431796446140216843,
+  "questLineIDLow:4": -5663615878057108154
+}

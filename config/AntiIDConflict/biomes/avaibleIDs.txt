@@ -1,5 +1,6 @@
-Total amount of free biome ids: C:\Users\Jason\AppData\Roaming\gdlauncher_next\instances\Volentus\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: C:\Users\Jason\AppData\Roaming\PrismLauncher\instances\Volentus FileDirector\minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
+168
 169
 174
 175
@@ -15,8 +16,6 @@ List of free biome ids:
 187
 188
 189
-190
-191
 196
 197
 198
@@ -59,3 +58,4 @@ List of free biome ids:
 237
 242
 247
+255

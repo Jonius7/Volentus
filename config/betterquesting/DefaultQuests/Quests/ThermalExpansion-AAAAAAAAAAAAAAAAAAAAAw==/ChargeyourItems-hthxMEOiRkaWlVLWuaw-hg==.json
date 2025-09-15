@@ -1,0 +1,118 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Now you can finally charge your Jetpack from the Getting Started chapter!\n\nThis is only one way you can charge your items, perhaps in the future you will find a way to charge them wirelessly...",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 10,
+        "OreDict:8": "",
+        "id:8": "ThermalExpansion:Machine",
+        "tag:10": {
+          "Augments:9": {
+            "0:10": {
+              "Count:1": 1,
+              "Damage:2": 0,
+              "Slot:3": 0,
+              "id:2": 5142
+            },
+            "1:10": {
+              "Count:1": 1,
+              "Damage:2": 32,
+              "Slot:3": 1,
+              "id:2": 5142
+            },
+            "2:10": {
+              "Count:1": 1,
+              "Damage:2": 16,
+              "Slot:3": 2,
+              "id:2": 5142
+            }
+          },
+          "Energy:3": 0,
+          "Facing:1": 3,
+          "Level:1": 0,
+          "RSControl:1": 0,
+          "SideCache:7": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Charge your Items!",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -8730103425550629306,
+  "questIDLow:4": -7596074114298921338,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 10,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Machine",
+          "tag:10": {
+            "Augments:9": {
+              "0:10": {
+                "Count:1": 1,
+                "Damage:2": 0,
+                "Slot:3": 0,
+                "id:2": 5142
+              },
+              "1:10": {
+                "Count:1": 1,
+                "Damage:2": 32,
+                "Slot:3": 1,
+                "id:2": 5142
+              },
+              "2:10": {
+                "Count:1": 1,
+                "Damage:2": 16,
+                "Slot:3": 2,
+                "id:2": 5142
+              }
+            },
+            "Energy:3": 0,
+            "Facing:1": 3,
+            "Level:1": 0,
+            "RSControl:1": 0,
+            "SideCache:7": [
+              1,
+              1,
+              2,
+              2,
+              2,
+              2
+            ]
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

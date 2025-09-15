@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "type": "ElementText",
+      "properties": {
+        "text": "Thisisastestfile",
+        "color": -1,
+        "x": 48,
+        "y": 14,
+        "width": 200,
+        "height": 100,
+        "size": 2.0
+      }
+    }
+  ],
+  "scrollMax": 0,
+  "isPriority": false,
+  "backgroundColor": -301989888,
+  "name": "TConstruct.TinkersConstruct.TinkersConstruct.Smeltery.en_US",
+  "canEdit": true,
+  "saveDir": ""
+}

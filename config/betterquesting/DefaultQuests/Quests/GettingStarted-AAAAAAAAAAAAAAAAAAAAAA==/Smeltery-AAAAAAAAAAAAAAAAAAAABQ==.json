@@ -1,0 +1,111 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 9
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "To make the next tier of Tinkers\u0027 tool (Copper) you\u0027ll need a smeltery. A smeltery is a large, expandable structure that can melt down ores and ingots into molten metal.\n\nTo construct a simple smeltery structure with a 3x3 interior and 1 block high, place a 3x3 base of §8Seared Bricks§r (preferably sunken into the floor), then on the front outside face place the §8Smeltery Controller§r and two §8Seared Drains§r. You can place the §8Seared Glass§r or §8Seared Tank§r on the side, and fill it with lava using a §4Clay Bucket§r. Fill the rest of the outside edge with §8Seared Bricks§r (you can skip the corners).\n[img height\u003d100]getting_started:2025-09-13_00.15.27.png[/img]\nThe reward gives you enough to expand the smeltery to 2 blocks high. The §8Seared Glass§r only works on the bottom layer though.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TConstruct:Smeltery"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Smeltery",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "minecraft:entity.player.levelup",
+      "snd_update:8": "minecraft:entity.player.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 5,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 11,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TConstruct:Smeltery"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TConstruct:LavaTank"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TConstruct:Smeltery"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TConstruct:Smeltery"
+        },
+        "2:10": {
+          "Count:3": 2,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TConstruct:SearedBlock"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TConstruct:LavaTank"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TConstruct:SearedBlock"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TConstruct:SearedBlock"
+        },
+        "6:10": {
+          "Count:3": 17,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TConstruct:Smeltery"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
