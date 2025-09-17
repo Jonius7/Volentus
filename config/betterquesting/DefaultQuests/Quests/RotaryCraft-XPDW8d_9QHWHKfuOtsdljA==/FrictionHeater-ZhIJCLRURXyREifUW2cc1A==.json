@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7618112374513450307,
+      "questIDLow:4": -5392979719264249966
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §5Friction Heater§r is used to heat §8Minecraft Furnaces§r without using fuel. More §c§2torque§r§r and §cspeed§r will increase the temperature the furnace is heated at. A high temperature can speed up the furnace operation. It is also the only way to smelt §dTungsten Flakes§r into §dTungsten Ingots§r.\n\nIt is also the way you heat the §8Blast Furnace§r past the level that Lava would be able to do.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 67,
+        "OreDict:8": "",
+        "id:8": "RotaryCraft:rotarycraft_item_machine"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Friction Heater",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7354951074439251324,
+  "questIDLow:4": -7993282595609174828,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 67,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

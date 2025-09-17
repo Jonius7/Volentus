@@ -1,9 +1,22 @@
 {
-  "preRequisites:9": {},
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -6637012363729877960,
+      "questIDLow:4": -6711801040032752438
+    },
+    "1:10": {
+      "questIDHigh:4": 1531402784886967433,
+      "questIDLow:4": -7377400385738442246
+    },
+    "2:10": {
+      "questIDHigh:4": -1079852846089615654,
+      "questIDLow:4": -8379257124811569564
+    }
+  },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "No Description",
+      "desc:8": "The Microturbine is a powerful engine that runs on §cJet Fuel§r. You will need to heat the §8Blast Furnace§r to at least §c1100C§r to craft this item.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

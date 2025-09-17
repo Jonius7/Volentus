@@ -3,7 +3,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "While exploring the world you may come across an IndustrialCraft 2 Rubber tree. You can see on the sides there are these little golden holes - these when clicked on with a treetap, will give you §e§r§6Sticky Resin§r that can then be turned into rubber, useful for all sorts of IC2 machines.",
+      "desc:8": "While exploring the world you may come across an IndustrialCraft 2 Rubber tree. You can see on the sides there are these little golden holes - these when clicked on with a §4Treetap§r, will give you §e§r§6Sticky Resin§r that can then be turned into rubber, useful for all sorts of IC2 machines.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "No Description",
+      "desc:8": "The §5fermenter§5§r is used to produce the §bEthanol§r for the engines that require it. \n- To make §4Yeast§r, place sugar in the top slot, and dirt on the bottom.\n- To make §cSludge§r, put yeast on top, and plant matter on the bottom.\n\nThe fermenter is sensitive to temperature, so extreme temperatures will slow down or even kill the yeast.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

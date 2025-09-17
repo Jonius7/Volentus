@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -6282077178807564928,
+      "questIDLow:4": -5925295707766908764
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §5Industrial Coil§r can store shaft power and output a custom set value of §2Torque§r and §cSpeed§r, which can make things easier to deal with than gearboxes, but it has a Speed limit of §c1024 rad/s§r for the §dSteel§r version and §c4096 rad/s§r for the §8Bedrock§r version. \n\nIt cannot output and store power at the same time, it must do one or the other.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "OreDict:8": "",
+        "id:8": "RotaryCraft:rotarycraft_item_advgear"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Industrial Coil",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6782120467450183696,
+  "questIDLow:4": -5056334833545950249,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_advgear"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

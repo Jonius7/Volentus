@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2437720194343781243,
+      "questIDLow:4": -7347555493629365247
+    },
+    "1:10": {
+      "questIDHigh:4": 7354951074439251324,
+      "questIDLow:4": -7993282595609174828
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§5Spring Steel§r is required to make the Hydrokinetic Engine. You will need to heat the Blast Furnace to 1000C, for that, a minimum of §2512 Nm§r at §c512 rad/s§r powering a §6Friction Heater§r is required.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 9,
+        "OreDict:8": "",
+        "id:8": "RotaryCraft:rotarycraft_item_compacts"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Spring Steel",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -150831066190429523,
+  "questIDLow:4": -7922633866806517225,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 24,
+          "Damage:2": 9,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_compacts"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

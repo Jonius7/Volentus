@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "You will want a §1Screwdriver§r to configure and rotate machines in RotaryCraft. While you\u0027re at it make an §2Angular Transducer§r as well.",
+      "desc:8": "You will want a §1Screwdriver§r to configure and rotate machines in RotaryCraft. You usually §3Right Click§r to rotate machines and §3Shift + Right Click to change their modes.§r\n\nWhile you\u0027re at it make an §2Angular Transducer§r as well.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

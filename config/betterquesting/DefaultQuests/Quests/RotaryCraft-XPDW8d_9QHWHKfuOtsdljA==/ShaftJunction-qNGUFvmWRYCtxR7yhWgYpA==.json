@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "No Description",
+      "desc:8": "§5Shaft Junctions§r are used to §6combine§r two engines\u0027 outputs together, outputting the sum of the torques at the input speed. Particulary useful when combining the power of 4 §8Steam Engines§r together to power the §4Extractor§r, for example.\n\nThey can also be used to §csplit§r an input and send torque to each of the two outputs.\n\nTo change between §6Merge§r and §cSplit§r modes, §3Shift + Right Click§r using the §9Screwdriver§r.\n\nShaft Junctions can at most merge 4 times the average input power. If upgraded with a §8Bedrock 2x Gear§r, then they do not have this limit.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

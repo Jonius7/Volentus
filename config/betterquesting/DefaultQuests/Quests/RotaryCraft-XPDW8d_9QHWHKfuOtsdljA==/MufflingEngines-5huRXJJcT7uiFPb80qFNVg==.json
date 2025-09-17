@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 12
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "RotaryCraft engines can be loud and annoying, so you have a couple of ways to remedy this.\n\nFirstly, as stated in the Handbook, you can place §8wool§r around the sides and top of the engine. This will work for the DC Electric Engine for example, but for the Steam Engine, which usually requires lit §4netherrack§r underneath it, will just burn the wool.\n\nSo, instead, you can use a §8Sound Muffler§r from Extra Utilties. Two of them in close proximity to the engine should be enough to practically muffle the sound.\n\nThe third option, is to turn down the engine volume in the config. Search for §6\"Eng§6ine Volume\"§r in §9config/Reika/RotaryCraft.cfg§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ExtraUtilities:sound_muffler"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Muffling Engines",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -1865737793836396613,
+  "questIDLow:4": -6767512774305034922,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 2,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:sound_muffler"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}

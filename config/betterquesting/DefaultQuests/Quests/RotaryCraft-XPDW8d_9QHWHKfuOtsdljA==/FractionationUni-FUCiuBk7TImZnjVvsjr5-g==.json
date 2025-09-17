@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -8205603128421234888,
+      "questIDLow:4": -6082894618999542759
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The Fractionation unit is used to make §cJet Fuel§c§r.\n\nYou will need §8Tar Sand§r, §4Netherack Dust§r, §8Coal Dust§r, §6Blaze Powder§r, §dPink Dye§r and §aMagma Cream§r.\nAdditionally, §bLiquid Ethanol§r is used as a base and a §7Ghast Tear§r is used as a catalyst (but is not consumed)\n[img height\u003d90]rotarycraft:2025-09-17_17.05.49.png[/img]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 25,
+        "OreDict:8": "",
+        "id:8": "RotaryCraft:rotarycraft_item_machine"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Fractionation Unit",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 1531402784886967433,
+  "questIDLow:4": -7377400385738442246,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 25,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

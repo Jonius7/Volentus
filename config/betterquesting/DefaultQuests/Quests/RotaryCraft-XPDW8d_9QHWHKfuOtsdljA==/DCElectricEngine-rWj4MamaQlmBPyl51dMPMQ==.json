@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The DC Electric Engine is the weakest of the engines.",
+      "desc:8": "The §5DC Electric Engine§r is the weakest of the engines. It can be powered using a Redstone Signal.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

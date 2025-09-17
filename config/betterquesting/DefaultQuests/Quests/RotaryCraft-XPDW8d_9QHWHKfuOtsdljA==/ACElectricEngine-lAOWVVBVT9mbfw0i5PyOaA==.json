@@ -1,8 +1,12 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -7792222959848832871,
-      "questIDLow:4": -7896121254547065840
+      "questIDHigh:4": 1422594375488390393,
+      "questIDLow:4": -6156993716265097919
+    },
+    "1:10": {
+      "questIDHigh:4": 2356105530880642111,
+      "questIDLow:4": -8363781098572402144
     }
   },
   "properties:10": {
@@ -33,5 +37,23 @@
   "questIDHigh:4": -7781210438001930279,
   "questIDLow:4": -7242055232266662296,
   "rewards:9": {},
-  "tasks:9": {}
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_engine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
 }

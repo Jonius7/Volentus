@@ -1,0 +1,37 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 12
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "You will need a rapid redstone signal to magnetize the §bShaft Core§r used in the §6AC Electric Engine§r as well as powering the engine itself. You can use:\n  - §4Timer§r from ProjectRed OR\n  - §4Redstone Clock§r from ExpandedRedstone\nto send this signal. \n\nFor the §4Timer§r you can right click to open the interface in whcih you can set the pulse frequency.\nFor the §c§4Redstone Clock§r you can configure the two sliders with §3Right Click§3§r and §3Shift + Right Click§r.\n\n[img height\u003d100]rotarycraft:2025-09-16_18.00.02.png[/img]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 17,
+        "OreDict:8": "",
+        "id:8": "ProjRed|Integration:projectred.integration.gate"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Timer - Rapid Redstone Pulse",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 2356105530880642111,
+  "questIDLow:4": -8363781098572402144,
+  "rewards:9": {},
+  "tasks:9": {}
+}

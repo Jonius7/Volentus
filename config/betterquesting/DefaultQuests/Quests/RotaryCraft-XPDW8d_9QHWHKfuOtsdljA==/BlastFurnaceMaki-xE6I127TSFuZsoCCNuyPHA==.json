@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The first step in progressing in Rotarycraft is making §bHSLA Steel§r, which is used to make nearly every machine in the mod. For that you will need a Blast Furnace.\n\nThe Blast Furnace can be heated by placing it over a block of lava. Inside you put in the ingredients (Sand, Coal, Gunpowder, on the left, Iron in the 9 slots on the right). The more Iron you put in at a time, the more efficient the Blast Furnace will make HSLA Steel. \n\nAdditionally, making §8Coal Coke§r and using that instead of regular Coal will also increase the efficiency.",
+      "desc:8": "The first step in progressing in Rotarycraft is making §bHSLA Steel§r, which is used to make nearly every machine in the mod. For that you will need a §4Blast Furnace§r.\n\nThe §4§rBlast Furnace§r can be heated by placing it over a block of lava. Inside you put in the ingredients (Sand, Coal, Gunpowder, on the left, Iron in the 9 slots on the right). The more Iron you put in at a time, the more efficient the Blast Furnace will make HSLA Steel. \n\nAdditionally, making §8Coal Coke§r in the Blast Furnace and using that instead of regular Coal will also increase the efficiency.\n\nYou\u0027re going to need a lot of §bHSLA Steel§r to progress in this mod. A lot.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -1,9 +1,18 @@
 {
-  "preRequisites:9": {},
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -150831066190429523,
+      "questIDLow:4": -7922633866806517225
+    },
+    "1:10": {
+      "questIDHigh:4": -705121498293059069,
+      "questIDLow:4": -8403581992667072713
+    }
+  },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "No Description",
+      "desc:8": "§5Hydrokinetic Engines§r are powered by falling water, the higher the fall, the more power it will produce, up to a maximum of a 64-block high fall. They can only turn anti-clockwise so the falling water must be set up accordingly. They require §eLubricant§r to function.\n\nHydrokinetic Engines can be chained like so:\n[img height\u003d100]rotarycraft:2025-09-17_21.32.08.png[/img]\nYou can chain up to 4 Engines together, however if you upgrade each Hydrokinetic Engine with a §8Bedrock Shaft Unit§r, that limit increases to 16.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
