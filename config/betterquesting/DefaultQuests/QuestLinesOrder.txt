@@ -6,4 +6,6 @@ AAAAAAAAAAAAAAAAAAAAAw==: Thermal Expansion
 XPDW8d_9QHWHKfuOtsdljA==: RotaryCraft
 22N-6nSETy6UROdTsGetxg==: Actually Additions
 c8-VX3a4Rfeu1_IfE7pwEw==: FullThrottle Alchemist
+xLQV6R2bR66GHi1ft-G7jQ==: Ender IO
 ivw9zklpSfWxZstdtCTdRg==: Inductive Automation
+b9X2Y6vNQq2AU1ZWeRUqWQ==: Mekanism

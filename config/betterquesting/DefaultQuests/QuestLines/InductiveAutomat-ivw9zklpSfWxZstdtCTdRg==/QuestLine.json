@@ -8,7 +8,7 @@
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "minecraft:book"
+        "id:8": "Automation:tile.advancedFurnace"
       },
       "name:8": "Inductive Automation",
       "visibility:8": "NORMAL"
