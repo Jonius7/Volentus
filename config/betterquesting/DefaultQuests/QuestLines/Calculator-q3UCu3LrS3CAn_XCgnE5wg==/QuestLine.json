@@ -1,0 +1,24 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "Calculator:Calculator",
+        "tag:10": {
+          "Energy:3": 989,
+          "Items:9": {},
+          "Itemssize:3": 0
+        }
+      },
+      "name:8": "Calculator",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": -6091959916838565008,
+  "questLineIDLow:4": -9178347299796862526
+}

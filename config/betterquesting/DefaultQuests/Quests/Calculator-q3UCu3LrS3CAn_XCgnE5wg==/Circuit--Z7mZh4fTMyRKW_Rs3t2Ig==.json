@@ -1,0 +1,87 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1772176959604504024,
+      "questIDLow:4": -6170581533221683597
+    },
+    "1:10": {
+      "questIDHigh:4": 5246642367009343481,
+      "questIDLow:4": -5329918421251347369
+    },
+    "2:10": {
+      "questIDHigh:4": 3562616092871249126,
+      "questIDLow:4": -5311083423083039263
+    },
+    "3:10": {
+      "questIDHigh:4": 5686718893566347977,
+      "questIDLow:4": -8408911625326311368
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 5,
+        "OreDict:8": "",
+        "id:8": "Calculator:CircuitBoard",
+        "tag:10": {
+          "Energy:3": 39,
+          "Item1:3": 41,
+          "Item2:3": 32,
+          "Item3:3": 786,
+          "Item4:3": 611,
+          "Item5:3": 7588,
+          "Item6:3": 15608,
+          "Stable:3": 2
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Circuit",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -459676785678791476,
+  "questIDLow:4": -7986729517714803166,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 32767,
+          "OreDict:8": "",
+          "id:8": "Calculator:CircuitBoard",
+          "tag:10": {
+            "Energy:3": 39,
+            "Item1:3": 41,
+            "Item2:3": 32,
+            "Item3:3": 786,
+            "Item4:3": 611,
+            "Item5:3": 7588,
+            "Item6:3": 15608,
+            "Stable:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -3,6 +3,7 @@
 Reika.RotaryCraft.TileEntities.Transmission.TileEntityAdvancedGear	industrial_coil
 ic2.core.block.machine.tileentity.TileEntityCanner	canning_machine
 ic2.core.block.machine.tileentity.TileEntityMetalFormer	metalformer
+mekanism.common.tile.TileEntityFactory	basic_infusing_factory
 mekanism.common.tile.TileEntityFluidTank	basic_fluid_tank
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
