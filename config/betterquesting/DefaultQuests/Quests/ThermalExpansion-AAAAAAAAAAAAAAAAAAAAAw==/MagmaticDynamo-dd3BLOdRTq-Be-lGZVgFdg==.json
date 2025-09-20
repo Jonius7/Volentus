@@ -1,0 +1,81 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 6879789586191828001,
+      "questIDLow:4": -8034507276879015491
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Magmatic Dynamos run off Lava. Time to get a setup going in the Nether!",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "OreDict:8": "",
+        "id:8": "ThermalExpansion:Dynamo",
+        "tag:10": {
+          "Augments:9": {
+            "0:10": {
+              "Count:1": 1,
+              "Damage:2": 32,
+              "Slot:3": 0,
+              "id:2": 5142
+            }
+          },
+          "Energy:3": 0,
+          "Facing:1": 1,
+          "RSControl:1": 0
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Magmatic Dynamo",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 8493156870894210735,
+  "questIDLow:4": -9116436532124187274,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Dynamo",
+          "tag:10": {
+            "Augments:9": {
+              "0:10": {
+                "Count:1": 1,
+                "Damage:2": 32,
+                "Slot:3": 0,
+                "id:2": 5142
+              }
+            },
+            "Energy:3": 0,
+            "Facing:1": 1,
+            "RSControl:1": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

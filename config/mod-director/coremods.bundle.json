@@ -189,6 +189,13 @@
             },
             "addonId": 253043,
             "fileId": 2430662
+        },
+        {
+            "installationPolicy": {
+                "name": "Origin"
+            },
+            "addonId": 72503,
+            "fileId": 2272713
         }
     ],
     "url": [

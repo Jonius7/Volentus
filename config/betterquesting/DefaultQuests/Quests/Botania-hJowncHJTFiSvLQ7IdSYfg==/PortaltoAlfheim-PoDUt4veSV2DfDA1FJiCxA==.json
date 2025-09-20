@@ -1,0 +1,79 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 5757791581023715470,
+      "questIDLow:4": -6825075280835118206
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "To activate the portal, right click the §aElven Gateway Core§r with a §4Wand of the Forest§r.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 5,
+        "OreDict:8": "",
+        "id:8": "Botania:livingwood"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Portal to Alfheim",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 4503833512161200477,
+  "questIDLow:4": -8972243353091931452,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 8,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Botania:livingwood"
+        },
+        "1:10": {
+          "Count:3": 3,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "Botania:livingwood"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Botania:alfheimPortal"
+        },
+        "3:10": {
+          "Count:3": 2,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Botania:pool"
+        },
+        "4:10": {
+          "Count:3": 2,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "Botania:pylon"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

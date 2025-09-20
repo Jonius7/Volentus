@@ -1107,6 +1107,13 @@
             },
             "addonId": 243712,
             "fileId": 2299739
+        },
+        {
+            "installationPolicy": {
+                "name": "Thaumic Expansion"
+            },
+            "addonId": 228696,
+            "fileId": 2272531
         }
     ],
     "url": [
@@ -1234,7 +1241,7 @@
             "metadata": {
                 "side": "CLIENT"
             },
-            "url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar",
+            "url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar",
             "fileName": "OptiFine_1.7.10_HD_U_E7.jar",
             "follows": [
                 "OptiFine 1.7.10 HD U E7"
@@ -1858,6 +1865,12 @@
             },
             "url": "https://forum.industrial-craft.net/core/attachment/6274-ztech1-7-10-0-0-3-jar/",
             "fileName": "ztech1.7.10-0.0.3.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "Technomancy"
+            },
+            "url": "https://mediafilez.forgecdn.net/files/2295/819/Technomancy - 0.12.5 - 1.7.10.jar"
         }
     ],
     "modrinth": [
