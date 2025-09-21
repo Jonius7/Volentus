@@ -1,0 +1,65 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2037225886300850523,
+      "questIDLow:4": -7927616104433426443
+    },
+    "1:10": {
+      "questIDHigh:4": 1951324861631383171,
+      "questIDLow:4": -5309312173255394356
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §4CESU§r outputs power at MV tier (128 EU/t). In the past, mismatching the tier of power (eg: MV with LV) would cause machines to explode but this is not active in IC2 Experimental versions.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "OreDict:8": "",
+        "id:8": "IC2:blockElectric",
+        "tag:10": {
+          "energy:6": 300000.0
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "CESU",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3899873813993469732,
+  "questIDLow:4": -8700194608359722630,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 7,
+          "OreDict:8": "",
+          "id:8": "IC2:blockElectric",
+          "tag:10": {
+            "energy:6": 300000.0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

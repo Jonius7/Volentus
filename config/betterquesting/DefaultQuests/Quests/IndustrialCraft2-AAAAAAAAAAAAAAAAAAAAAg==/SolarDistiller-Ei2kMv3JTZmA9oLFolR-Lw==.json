@@ -1,0 +1,63 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7468702291803160454,
+      "questIDLow:4": -7223322908347469949
+    },
+    "1:10": {
+      "questIDHigh:4": 8728162459805502724,
+      "questIDLow:4": -6967756413318054223
+    },
+    "2:10": {
+      "questIDHigh:4": -6168435195224701423,
+      "questIDLow:4": -8338274725942151656
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "OreDict:8": "",
+        "id:8": "IC2:blockMachine3"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Solar Distiller",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 1309883605547830681,
+  "questIDLow:4": -9153985407240339921,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMachine3"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

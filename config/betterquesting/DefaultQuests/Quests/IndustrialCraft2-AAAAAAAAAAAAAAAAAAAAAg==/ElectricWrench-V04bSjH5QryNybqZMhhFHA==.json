@@ -1,0 +1,61 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 5678559868781873948,
+      "questIDLow:4": -9179278528481378713
+    },
+    "1:10": {
+      "questIDHigh:4": -5977247189481779,
+      "questIDLow:4": -8298013272085806864
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "An electric version of the Wrench. Uses EU instead of durability.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 27,
+        "OreDict:8": "",
+        "id:8": "IC2:itemToolWrenchElectric",
+        "tag:10": {}
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Electric Wrench",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6290995734963110588,
+  "questIDLow:4": -8229841676909656804,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 27,
+          "OreDict:8": "",
+          "id:8": "IC2:itemToolWrenchElectric",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

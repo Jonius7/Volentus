@@ -1,5 +1,9 @@
 # Changelog
 
+#### 1.9.1-beta
+
+- Add Technomancy 0.12.5
+
 #### 1.9-beta
 
 Added new modpack list `bundle.json v5.xlsx`. Around 401 active mods (according to the main menu).

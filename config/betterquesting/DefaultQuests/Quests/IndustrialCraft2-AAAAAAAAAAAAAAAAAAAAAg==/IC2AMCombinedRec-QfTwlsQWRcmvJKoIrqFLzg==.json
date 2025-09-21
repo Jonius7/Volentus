@@ -1,0 +1,63 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -8008196441512982522,
+      "questIDLow:4": -4919513219001757758
+    },
+    "1:10": {
+      "questIDHigh:4": 145369450077898107,
+      "questIDLow:4": -8827555426570225210
+    },
+    "2:10": {
+      "questIDHigh:4": -3101970156690585334,
+      "questIDLow:4": -5775695473430916270
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "OreDict:8": "",
+        "id:8": "AdvancedMachines:blockAdvMachine"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "(IC2AM) Combined Recycler",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 4752688037108270537,
+  "questIDLow:4": -5826345063644312626,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "AdvancedMachines:blockAdvMachine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

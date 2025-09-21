@@ -1,0 +1,69 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 6003025270507982762,
+      "questIDLow:4": -8775030586778343939
+    },
+    "1:10": {
+      "questIDHigh:4": -7573285904552145094,
+      "questIDLow:4": -8723364345068912660
+    },
+    "2:10": {
+      "questIDHigh:4": -7521416463247520081,
+      "questIDLow:4": -6525438012062993775
+    },
+    "3:10": {
+      "questIDHigh:4": -7071335040988461143,
+      "questIDLow:4": -8369108715026696077
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 26,
+        "OreDict:8": "",
+        "id:8": "IC2:itemToolMiningLaser",
+        "tag:10": {}
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Mining Laser",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -522646774808164881,
+  "questIDLow:4": -5428767653170639395,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 26,
+          "OreDict:8": "",
+          "id:8": "IC2:itemToolMiningLaser",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

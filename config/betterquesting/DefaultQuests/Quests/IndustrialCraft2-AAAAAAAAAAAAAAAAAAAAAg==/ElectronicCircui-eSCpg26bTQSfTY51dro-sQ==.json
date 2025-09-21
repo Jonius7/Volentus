@@ -1,0 +1,69 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3443769583496180647,
+      "questIDLow:4": -7224810981344269017
+    },
+    "1:10": {
+      "questIDHigh:4": 3631187580084437825,
+      "questIDLow:4": -5995557075517625009
+    },
+    "2:10": {
+      "questIDHigh:4": 4996601707505405480,
+      "questIDLow:4": -7077974931739084191
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The backbone of many early-mid game IC2 machines.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "IC2:itemPartCircuit"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Electronic Circuit \u0026 Basic Machine Casing",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 8728162459805502724,
+  "questIDLow:4": -6967756413318054223,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IC2:itemPartCircuit"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMachine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

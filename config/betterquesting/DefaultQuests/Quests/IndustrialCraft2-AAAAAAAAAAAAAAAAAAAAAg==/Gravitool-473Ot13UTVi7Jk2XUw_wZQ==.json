@@ -1,0 +1,85 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 6290995734963110588,
+      "questIDLow:4": -8229841676909656804
+    },
+    "1:10": {
+      "questIDHigh:4": 7756197929577958893,
+      "questIDLow:4": -7752917909240928195
+    },
+    "2:10": {
+      "questIDHigh:4": -7573285904552145094,
+      "questIDLow:4": -8723364345068912660
+    },
+    "3:10": {
+      "questIDHigh:4": -7225103707359199207,
+      "questIDLow:4": -8392674104305997565
+    },
+    "4:10": {
+      "questIDHigh:4": 7476878724401807514,
+      "questIDLow:4": -6711753073392287092
+    },
+    "5:10": {
+      "questIDHigh:4": -7521416463247520081,
+      "questIDLow:4": -6525438012062993775
+    },
+    "6:10": {
+      "questIDHigh:4": -7071335040988461143,
+      "questIDLow:4": -8369108715026696077
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 27,
+        "OreDict:8": "",
+        "id:8": "GraviSuite:graviTool",
+        "tag:10": {
+          "charge:3": 0
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Gravitool",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2036244169553064616,
+  "questIDLow:4": -4961192627173068699,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 27,
+          "OreDict:8": "",
+          "id:8": "GraviSuite:graviTool",
+          "tag:10": {
+            "charge:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2368437755561592832,
+      "questIDLow:4": -5693775567226419693
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "THe Electric Kinetic Generator is used to power the Turning Table.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "OreDict:8": "",
+        "id:8": "IC2:blockKineticGenerator"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Electric Kinetic Generator",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5263385750153021913,
+  "questIDLow:4": -5835613128281359957,
+  "rewards:9": {},
+  "tasks:9": {}
+}

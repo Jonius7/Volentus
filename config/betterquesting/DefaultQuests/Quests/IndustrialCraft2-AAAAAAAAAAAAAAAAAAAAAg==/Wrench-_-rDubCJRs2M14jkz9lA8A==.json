@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 11
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "If you want to pick up and move your IC2 machines, you will need to use a §4Wrench§r instead of a Pickaxe. You will only pick up a §bBasic Machine Frame§r by using a Pickaxe. So use a Wrench to pick up all machines that you create, that are in this column of the quest book and to the right.\n\nYou can also rotate some machines using the wrench. §3Right Click§r a side to have the output/input face that side. §b§3Shift + Right Click§r to have it face the opposite side.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "IC2:itemToolWrench"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Wrench",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -5977247189481779,
+  "questIDLow:4": -8298013272085806864,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IC2:itemToolWrench"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

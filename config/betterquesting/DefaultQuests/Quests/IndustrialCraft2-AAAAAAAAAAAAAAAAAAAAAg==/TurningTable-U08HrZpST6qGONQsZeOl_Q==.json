@@ -1,0 +1,80 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2368437755561592832,
+      "questIDLow:4": -5693775567226419693
+    },
+    "1:10": {
+      "questIDHigh:4": 5263385750153021913,
+      "questIDLow:4": -5835613128281359957
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "To upgrade your Mining Drill to diamond you are going to need a Iron Turning Blank grinded down into the shape of a drill. This is where the Turning Table comes in.\n\nPlace the Iron Turning Blank and the Lathing Tool in the top two slots on the left. You will then be able to \"grind down\" each of the 5 sections of the Turning Blank. For a Drill shape you will want 5/5 4/5 3/5 2/5 1/5.\n[img height\u003d100]industrialcraft:2025-09-21_21.16.24.png[/img]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 8,
+        "OreDict:8": "",
+        "id:8": "IC2:blockMachine3"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Turning Table",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6003025270507982762,
+  "questIDLow:4": -8775030586778343939,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 8,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMachine3"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 21845,
+          "OreDict:8": "",
+          "id:8": "IC2:itemTurningBlanks",
+          "tag:10": {
+            "state:10": {
+              "l0:3": 5,
+              "l1:3": 5,
+              "l2:3": 5,
+              "l3:3": 5,
+              "l4:3": 5
+            }
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IC2:itemLathingTool"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

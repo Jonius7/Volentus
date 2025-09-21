@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "Blocks that convert from EU to RF and more!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "PowerConverters3:powerconverters.common"
+      },
+      "name:8": "Power Converters",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": 4270957996845124529,
+  "questLineIDLow:4": -7934197716635369418
+}
