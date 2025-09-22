@@ -20,6 +20,7 @@ While the pack works (with some minor issues), it is quite demanding. Recommende
 <details><summary>Java Arguments</summary>
     <pre><code>-<span class="hljs-string">XX:</span>+UseG1GC -<span class="hljs-string">XX:</span>+UnlockExperimentalVMOptions -<span class="hljs-string">XX:</span>G1NewSizePercent=<span class="hljs-number">20</span> -<span class="hljs-string">XX:</span>G1MaxNewSizePercent=<span class="hljs-number">40</span> -<span class="hljs-string">XX:</span>G1HeapRegionSize=<span class="hljs-number">32</span>M -<span class="hljs-string">XX:</span>G1ReservePercent=<span class="hljs-number">20</span> -<span class="hljs-string">XX:</span>MaxGCPauseMillis=<span class="hljs-number">50</span> -<span class="hljs-string">XX:</span>G1HeapWastePercent=<span class="hljs-number">5</span> -<span class="hljs-string">XX:</span>+ParallelRefProcEnabled  -<span class="hljs-string">XX:</span>MaxDirectMemorySize=<span class="hljs-number">2</span>G  -<span class="hljs-string">XX:</span>+DisableExplicitGC -Dsun.rmi.dgc.server.gcInterval=<span class="hljs-number">2147483646</span> -Dsun.rmi.dgc.client.gcInterval=<span class="hljs-number">2147483646</span>
 </code></pre></details>
+
 There is an Excel Spreadsheet `mod-list.xlsx` listing all the mods and what type of mod they are, it can be easy to lose track otherwise. There is also an updated list in `bundle.json v5.xlsx` with data used for FileDirector/MCInstanceLoader.
 
 
