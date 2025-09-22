@@ -1,0 +1,71 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2046712274431134420,
+      "questIDLow:4": -7542070852846746394
+    },
+    "1:10": {
+      "questIDHigh:4": 3239149606329663743,
+      "questIDLow:4": -7346252021580667638
+    },
+    "2:10": {
+      "questIDHigh:4": 2220702065664280846,
+      "questIDLow:4": -8224853991535840022
+    },
+    "3:10": {
+      "questIDHigh:4": -522646774808164881,
+      "questIDLow:4": -5428767653170639395
+    },
+    "4:10": {
+      "questIDHigh:4": -7521416463247520081,
+      "questIDLow:4": -6525438012062993775
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 6,
+        "OreDict:8": "",
+        "id:8": "IC2:blockMachine2"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Pattern Storage",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7883307550810850886,
+  "questIDLow:4": -7408979258466890027,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMachine2"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

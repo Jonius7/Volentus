@@ -1,0 +1,96 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2368437755561592832,
+      "questIDLow:4": -5693775567226419693
+    },
+    "1:10": {
+      "questIDHigh:4": 8728162459805502724,
+      "questIDLow:4": -6967756413318054223
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "An §aOD scanner§r will allow the Miner to mine all ore in a 7x7 block column below it. An §aOV Scanner§r increases this range to 13x13!",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "OreDict:8": "",
+        "id:8": "IC2:blockMachine"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Miner",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 2932321397270331792,
+  "questIDLow:4": -5999651160856865957,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 7,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMachine"
+        },
+        "1:10": {
+          "Count:3": 8,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMiningPipe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 26,
+          "OreDict:8": "",
+          "id:8": "IC2:itemScanner",
+          "tag:10": {}
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 26,
+          "OreDict:8": "",
+          "id:8": "IC2:itemScannerAdv",
+          "tag:10": {}
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 8,
+          "OreDict:8": "",
+          "id:8": "IC2:blockMachine"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}

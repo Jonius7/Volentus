@@ -638,6 +638,8 @@ ihl.nei_integration.InjectionMoldRecipeHandler,IHL Tools & Machines,ihl:injectio
 ihl.nei_integration.MuffleFurnaceRecipeHandler,IHL Tools & Machines,ihl:muffleFurnance,,ihl,TRUE,,,,,,,,,,,
 ihl.nei_integration.DetonationSprayingMachineRecipeHandler,IHL Tools & Machines,ihl:cannonBronze,,ihl,TRUE,,,,,,,,,,,
 ihl.nei_integration.IronWorkbenchRecipeHandler,IHL Tools & Machines,ihl:ironWorkbench,,ihl,TRUE,,,,,,,,,,,
+ihl.nei_integration.FluidizedBedReactorRecipeHandler,IHL Tools & Machines,ihl:fluidizedBedReactor,,ihl,TRUE,,,,,,,,,,,
+ihl.nei_integration.WireMillRecipeHandler,IHL Tools & Machines,ihl:wireMill,,ihl,TRUE,,,,,,,,,,,
 logisticspipes.nei.NEISolderingStationRecipeManager,Logistics Pipes,LogisticsPipes:logisticsSolidBlock,,LogisticsPipes,TRUE,,,,,,,,,,,
 micdoodle8.mods.galacticraft.core.nei.RocketT1RecipeHandler,Galacticraft,GalacticraftCore:tile.rocketWorkbench,,GalacticraftCore,TRUE,,,,,,,,,,,
 micdoodle8.mods.galacticraft.planets.mars.nei.RocketT2RecipeHandler,Galacticraft Planets,GalacticraftCore:tile.rocketWorkbench,,GalacticraftCore,TRUE,,,,,,,,,,,

@@ -1,0 +1,78 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3227249172524808204,
+      "questIDLow:4": -7341870666837164320
+    },
+    "1:10": {
+      "questIDHigh:4": 2103560520692550397,
+      "questIDLow:4": -6796058480390882068
+    },
+    "2:10": {
+      "questIDHigh:4": 8337456752344383963,
+      "questIDLow:4": -5560224484076133943
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "Automation:tile.antimatterBombF",
+        "tag:10": {
+          "antimatter:3": 0
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Antimatter Bomb",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -7733210233383534505,
+  "questIDLow:4": -7576312384263377604,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Automation:tile.antimatterBombE",
+          "tag:10": {
+            "matter:9": {}
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Automation:tile.antimatterBombF",
+          "tag:10": {
+            "antimatter:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1812,12 +1812,6 @@
         },
         {
             "installationPolicy": {
-                "name": "IC2 Nuclear Control"
-            },
-            "url": "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.6.19/IC2NuclearControl-2.6.19.jar"
-        },
-        {
-            "installationPolicy": {
                 "name": "ProjectBlue"
             },
             "url": "https://github.com/GTNewHorizons/ProjectBlue/releases/download/1.2.0-GTNH/ProjectBlue-1.2.0-GTNH.jar"

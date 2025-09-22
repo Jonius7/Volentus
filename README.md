@@ -3,7 +3,7 @@
 
 
 
-This is a **Minecraft 1.7.10** modpack that contains all the main mods, but plenty of other mods that get left out in modpacks. (380 mods)
+This is a **Minecraft 1.7.10** modpack that contains all the main mods, but plenty of other mods that get left out in modpacks. (400 mods)
 
 
 
@@ -15,11 +15,12 @@ This pack has been through a number of revisions since 2018, as such, worlds may
 
 
 
-While the pack works (with some minor issues), it is quite demanding. Recommended **6.5GB - 7GB RAM** for this modpack.
+While the pack works (with some minor issues), it is quite demanding. Recommended **6.5GB - 7GB RAM** for this modpack. Additionally, with these Java arguments, can cut the memory usage down by 40%.
 
+<details><summary>Java Arguments</summary>
+    <pre>-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=32M -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapWastePercent=5 -XX:+ParallelRefProcEnabled  -XX:MaxDirectMemorySize=2G  -XX:+DisableExplicitGC -Dsun.rmi.dgc.server.gcInterval=2147483646 -Dsun.rmi.dgc.client.gcInterval=2147483646</pre></details>
 
-
-There is an Excel Spreadsheet `mod-list.xlsx` listing all the mods and what type of mod they are, it can be easy to lose track otherwise.
+There is an Excel Spreadsheet `mod-list.xlsx` listing all the mods and what type of mod they are, it can be easy to lose track otherwise. There is also an updated list in `bundle.json v5.xlsx` with data used for FileDirector/MCInstanceLoader.
 
 
 

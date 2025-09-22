@@ -1,5 +1,9 @@
 # Changelog
 
+#### 1.9.2-beta
+
+- Removed IC2 Nuclear Control (Energy Control does the same thing)
+
 #### 1.9.1-beta
 
 - Add Technomancy 0.12.5

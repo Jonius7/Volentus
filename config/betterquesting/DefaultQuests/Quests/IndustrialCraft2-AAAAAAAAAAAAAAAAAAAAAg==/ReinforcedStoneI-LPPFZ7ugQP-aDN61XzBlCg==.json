@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2220702065664280846,
+      "questIDLow:4": -8224853991535840022
+    },
+    "1:10": {
+      "questIDHigh:4": -6168435195224701423,
+      "questIDLow:4": -8338274725942151656
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§cReinforced Stone§r is required to make some IC2 machines but the process is unfortunately not documented in NEI. The process is as follows:\n\n- Make some §7CF Powder§r and put it in the central slot in a §9Fluid/Solid Canning Machine§r on §1Fluid Enrich§r mode.\n\n- Switch to §8§bDrain from Cell into Tank§r mode§r and put in Water Cells in the left slot.\n[img height\u003d100]industrialcraft:2025-09-22_18.10.44.png[/img]\n- Once you have enough water in the tank, switch back to Fluid Enrich mode, as well as clicking the §4Switch Tanks§4§r button to put the Water tank on the left. The machine should now make the §8Construction Foam§r.\n[img height\u003d100]industrialcraft:2025-09-22_18.02.24.png[/img]\n- Put a §6CF Sprayer§r in the left slot and switch to §9§aFill Cell from Tank§r mode, as well the §4Switch Tanks§4§r button.\n[img height\u003d100]industrialcraft:2025-09-22_18.04.24.png[/img]\n\nSpray an §dIron Scaffold§r to get §e§2Reinforced Construction Foam§r, then §3Right Click§r with a block of §eSand§r to turn it into §cReinforced Stone§m§r.\n",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "IC2:blockAlloy"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Reinforced Stone (IC2)",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 3239149606329663743,
+  "questIDLow:4": -7346252021580667638,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IC2:blockAlloy"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §4CESU§r outputs power at MV tier (128 EU/t). In the past, mismatching the tier of power (eg: MV with LV) would cause machines to explode but this is not active in IC2 Experimental versions.",
+      "desc:8": "The §4CESU§r is the second tier of EU Storage Unit, it outputs power at MV tier (128 EU/t). In the past, mismatching the tier of power (eg: MV with LV) would cause machines to explode but this is not active in IC2 Experimental versions.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

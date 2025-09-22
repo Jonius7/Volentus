@@ -1,0 +1,75 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 7947724927631770915,
+      "questIDLow:4": -5738996043806323349
+    },
+    "1:10": {
+      "questIDHigh:4": 3382833697285488866,
+      "questIDLow:4": -8117850027296072678
+    },
+    "2:10": {
+      "questIDHigh:4": 6863090241902625083,
+      "questIDLow:4": -9121279105066561723
+    },
+    "3:10": {
+      "questIDHigh:4": 3762655865980537345,
+      "questIDLow:4": -5032532531360347325
+    },
+    "4:10": {
+      "questIDHigh:4": -7521416463247520081,
+      "questIDLow:4": -6525438012062993775
+    },
+    "5:10": {
+      "questIDHigh:4": -7071335040988461143,
+      "questIDLow:4": -8369108715026696077
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "No Description",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "AdvancedSolarPanel:BlockAdvSolarPanel"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "(ASP) Advanced Solar Panel",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -626356448843314709,
+  "questIDLow:4": -9039193352198246230,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "AdvancedSolarPanel:BlockAdvSolarPanel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
