@@ -308,13 +308,6 @@
         },
         {
             "installationPolicy": {
-                "name": "Neodymium Unofficial"
-            },
-            "addonId": 1031274,
-            "fileId": 6039947
-        },
-        {
-            "installationPolicy": {
                 "name": "NetherOres"
             },
             "addonId": 66675,
@@ -1107,6 +1100,13 @@
             },
             "addonId": 243712,
             "fileId": 2299739
+        },
+        {
+            "installationPolicy": {
+                "name": "Neodymium Unofficial"
+            },
+            "addonId": 1031274,
+            "fileId": 6039947
         }
     ],
     "url": [
@@ -1858,6 +1858,12 @@
                 "name": "Technomancy"
             },
             "url": "https://mediafilez.forgecdn.net/files/2295/819/Technomancy - 0.12.5 - 1.7.10.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "Adjachest"
+            },
+            "url": "https://github.com/Myask-sl/adjachest-1.7.10/releases/download/v0.9.9.9beta10/adjachest-0.9.9.9beta10.jar"
         }
     ],
     "modrinth": [

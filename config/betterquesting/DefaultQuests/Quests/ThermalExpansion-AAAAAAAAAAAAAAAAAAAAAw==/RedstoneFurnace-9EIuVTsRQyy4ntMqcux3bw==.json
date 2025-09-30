@@ -67,5 +67,57 @@
   "questIDHigh:4": -846062836394147028,
   "questIDLow:4": -5143441545140340881,
   "rewards:9": {},
-  "tasks:9": {}
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Machine",
+          "tag:10": {
+            "Augments:9": {
+              "0:10": {
+                "Count:1": 1,
+                "Damage:2": 0,
+                "Slot:3": 0,
+                "id:2": 5142
+              },
+              "1:10": {
+                "Count:1": 1,
+                "Damage:2": 32,
+                "Slot:3": 1,
+                "id:2": 5142
+              },
+              "2:10": {
+                "Count:1": 1,
+                "Damage:2": 16,
+                "Slot:3": 2,
+                "id:2": 5142
+              }
+            },
+            "Energy:3": 0,
+            "Facing:1": 3,
+            "Level:1": 3,
+            "RSControl:1": 0,
+            "SideCache:7": [
+              1,
+              1,
+              2,
+              2,
+              2,
+              2
+            ]
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
 }

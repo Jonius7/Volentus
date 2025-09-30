@@ -862,7 +862,7 @@ ThermalFoundation:FluidCoal, Liquifacted Coal
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quod Erat Demonstrandum)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -9260,8 +9260,9 @@ assemblyline:cartPowerRail:6, Extention Rail
 assemblyline:cartPowerRail:7, Splitter Rail
 assemblyline:insertArm, Inserter
 assemblyline:cartTransportRail, Transport Rail
+aura:storageBookshelf, Storage Bookshelf
+aura:monitor, Monitor
 aura:storageBookshelfCoordinator, Bookshelf Coordinator
-aura:magicRoad, Traveler's Bricks
 aura:auraNode, Aura Node
 aura:auraNodepump, Burning Aura Pump
 aura:auraNodeblack, Aura Manipulator: Black
@@ -9281,6 +9282,14 @@ aura:auraNodepumpCreative, Creative Pump (Creative Only)
 aura:auraNodepumpLightAlt, Alternating Illumination Aura Pump
 aura:auraNodepumpRedstoneAlt, Alternating Redstone Aura Pump
 aura:auraNodeflux, Fluxing Node
+aura:fairyTorch, tile.fairyTorch.name
+aura:magicRoad, Traveler's Bricks
+aura:fortifiedDirt, Fortified Dirt
+aura:fortifiedWood, Fortified Planks
+aura:fortifiedGlass, Fortified Glass
+aura:fortifiedCobblestone, Fortified Cobblestone
+aura:fortifiedStone, Fortified Stone
+aura:fortifiedObsidian, Fortified Obsidian
 aura:consumerBlockfurnace, Cascading Smelter
 aura:consumerBlockplant, Cascading Grower
 aura:consumerBlockore, Cascading Processor
@@ -9295,16 +9304,7 @@ aura:consumerBlockoreAdv, Prismatic Processor
 aura:consumerBlockminer, Cascading Miner
 aura:consumerBlockfish, Cascading Fisher
 aura:consumerBlockend, Ritual of the End
-aura:storageBookshelf, Storage Bookshelf
-aura:fairyTorch, tile.fairyTorch.name
-aura:monitor, Monitor
 aura:trampoline, Rebounding Enigma
-aura:fortifiedDirt, Fortified Dirt
-aura:fortifiedWood, Fortified Planks
-aura:fortifiedGlass, Fortified Glass
-aura:fortifiedCobblestone, Fortified Cobblestone
-aura:fortifiedStone, Fortified Stone
-aura:fortifiedObsidian, Fortified Obsidian
 Automagy:blockRedcrystal, Redcrystal
 Automagy:blockRedcrystalAmp, Amplified Redcrystal
 Automagy:blockRedcrystalDim, Dim Redcrystal
@@ -10728,45 +10728,45 @@ Botany:ceramic, Ceramic Block
 Botany:stained, Pigmented Glass
 Botany:ceramicPattern, Ceramic Block
 Botany:ceramicBrick, Ceramic Tile
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:golemConnector, Golem Connector
-ThaumicTinkerer:infusedGrainBlock, Imbued Grain
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:gaseousShadow, Gaseous Shadow
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:infusedFarmland, Infused Farmland
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:infusedGrainBlock, Imbued Grain
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:gaseousLight, Gaseous Light
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:golemConnector, Golem Connector
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:gaseousShadow, Gaseous Shadow
+ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
 ThaumicTinkerer:nitorGas, Nitor Gas
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:gaseousLight, Gaseous Light
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -19484,11 +19484,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyanite Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Graphite Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Blutonium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ludicrite Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -21485,6 +21485,13 @@ chisel:cloudinabottle, Cloud In A Bottle
 chisel:smashingrock, Smashing Rock
 funkylocomotion:wrench:0, Wrench
 funkylocomotion:wrench:1, iWrench
+RedstoneArsenal:material:0, Fluxed Electrum Blend
+RedstoneArsenal:material:32, Fluxed Electrum Ingot
+RedstoneArsenal:material:64, Fluxed Electrum Nugget
+RedstoneArsenal:material:96, Flux Crystal
+RedstoneArsenal:material:128, Fluxed Armor Plating
+RedstoneArsenal:material:192, Obsidian Rod
+RedstoneArsenal:material:193, Flux-Infused Obsidian Rod
 RedstoneArsenal:armor.helmetFlux, Flux-Infused Helm
 RedstoneArsenal:armor.plateFlux, Flux-Infused Chestplate
 RedstoneArsenal:armor.legsFlux, Flux-Infused Leggings
@@ -21902,7 +21909,6 @@ Mekanism:CompressedCarbon, Compressed Carbon
 Mekanism:CompressedRedstone, Compressed Redstone
 Mekanism:CompressedDiamond, Compressed Diamond
 Mekanism:CompressedObsidian, Compressed Obsidian
-Mekanism:CompressedEnder, Compressed Ender Amethyst
 Mekanism:PortableTeleporter, Portable Teleporter
 Mekanism:TeleportationCore, Teleportation Core
 Mekanism:Clump:0, Iron Clump
@@ -22927,56 +22933,56 @@ ActuallyAdditions:itemChestCrystalWhite, Enori Crystal Chest
 ActuallyAdditions:itemPantsCrystalWhite, Enori Crystal Pants
 ActuallyAdditions:itemBootsCrystalWhite, Enori Crystal Boots
 ActuallyAdditions:itemPaxelCrystalWhite, Enori Crystal AIOT
-factorization:docbook, The Factorization Manual
-factorization:socket/scissors, Enormous Scissors
-factorization:silver_ingot, Silver Ingot
-factorization:utiligoo:0, Goo
-factorization:servo/commenter, Commenter
-factorization:corkscrew, Corkscrew
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:tool/matrix_programmer, Logic Matrix Programmer
 factorization:darkIronChain, Chain
-factorization:potencyBottle, Bottle of Potency
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:tool/charge_meter, Charge Meter
-factorization:spawnPoster, Poster
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:nether_powder, Netherrack Powder
-factorization:servo/component, item.factorization:servo/component.name
+factorization:chainLink, Dark Iron Chain Link
 factorization:servo/servo, Servo
-factorization:mirror, Mirror
+factorization:sludge, Sludge
+factorization:logic_matrix, Blank Logic Matrix
 factorization:fan, Pressurizer
+factorization:servo/component, item.factorization:servo/component.name
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:silver_ingot, Silver Ingot
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:motor, Motor
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:corkscrew, Corkscrew
+factorization:servo/commenter, Commenter
+factorization:entheas, Entheas
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:tool/charge_meter, Charge Meter
 factorization:barrelCart:0, Barrel Cart
 factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
 factorization:servo/instruction_plate, Instruction Plate
-factorization:lead_ingot, Lead Ingot
-factorization:colossusGuide, Lost Map
+factorization:nether_powder, Netherrack Powder
 factorization:servo/servo_motor, Servo Motor
-factorization:diamond_shard, Diamond Block Shard
-factorization:sap, Sap
-factorization:motor, Motor
-factorization:charge_battery, Battery Block
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:sludge, Sludge
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:shortChain, Short Length of Chain
-factorization:entheas, Entheas
-factorization:mansandwich:0, Manwich
-factorization:mansandwich:1, Spicy Manwich
-factorization:insulated_coil, Insulated Coil
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:sculptTool:0, Sculpting Tool
-factorization:logic_matrix_controller, Logic Matrix: Controller
 factorization:acid:0, Sulfuric Acid
 factorization:acid:1, Aqua Regia
-factorization:chainLink, Dark Iron Chain Link
-factorization:logic_matrix, Blank Logic Matrix
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
 factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:socket/scissors, Enormous Scissors
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:insulated_coil, Insulated Coil
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:lead_ingot, Lead Ingot
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:charge_battery, Battery Block
+factorization:spawnPoster, Poster
+factorization:potencyBottle, Bottle of Potency
+factorization:shortChain, Short Length of Chain
+factorization:docbook, The Factorization Manual
+factorization:mirror, Mirror
+factorization:sculptTool:0, Sculpting Tool
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:sap, Sap
+factorization:colossusGuide, Lost Map
+factorization:utiligoo:0, Goo
+factorization:mansandwich:0, Manwich
+factorization:mansandwich:1, Spicy Manwich
 factorization:socket/:34, Robotic Arm
 factorization:socket/:35, Item Shifter
+factorization:diamond_shard, Diamond Block Shard
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
 LogisticsPipes:item.logisticsItemCard:0, Logistics Item Card
 LogisticsPipes:item.remoteOrdererItem, Remote Orderer
 LogisticsPipes:item.ItemPipeSignCreator, Sign Creator
@@ -34637,12 +34643,12 @@ OpenBlocks:spongeonastick, Sponge
 OpenBlocks:pedometer, Pedometer
 OpenBlocks:epicEraser, Epic Eraser
 OpenBlocks:wrench, Big Metal Bar
-OpenPeripheral:ticketmachine, Ticket Machine
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
-OpenPeripheral:peripheralproxy, Peripheral Proxy
+OpenPeripheral:ticketmachine, Ticket Machine
 OpenPeripheral:glasses:0, Terminal Glasses
 OpenPeripheral:keyboard, Wireless Keyboard
 OpenPeripheral:generic:0, Duck Antenna
@@ -41710,16 +41716,16 @@ ThermalDynamics:cover:0, Mining Portal Cover
 ThermalDynamics:cover:0, Portal Frame Cover
 ThermalDynamics:cover:0, Sticky Ore Cover
 ThermalDynamics:cover:0, Transport Rail Cover
-ThermalDynamics:cover:0, Traveler's Bricks Cover
-ThermalDynamics:cover:0, tile.fairyTorch.name Cover
 ThermalDynamics:cover:0, Monitor Cover
-ThermalDynamics:cover:0, Rebounding Enigma Cover
+ThermalDynamics:cover:0, tile.fairyTorch.name Cover
+ThermalDynamics:cover:0, Traveler's Bricks Cover
 ThermalDynamics:cover:0, Fortified Dirt Cover
 ThermalDynamics:cover:0, Fortified Planks Cover
 ThermalDynamics:cover:0, Fortified Glass Cover
 ThermalDynamics:cover:0, Fortified Cobblestone Cover
 ThermalDynamics:cover:0, Fortified Stone Cover
 ThermalDynamics:cover:0, Fortified Obsidian Cover
+ThermalDynamics:cover:0, Rebounding Enigma Cover
 ThermalDynamics:cover:0, Essentia Aggregator Cover
 ThermalDynamics:cover:0, Enchanting Bookshelf Cover
 ThermalDynamics:cover:0, Ensorcelled Bookshelf Cover
@@ -41810,25 +41816,25 @@ ThermalDynamics:cover:0, Flowerbed Cover
 ThermalDynamics:cover:0, Flowerbed Cover
 ThermalDynamics:cover:0, Flowerbed Cover
 ThermalDynamics:cover:0, Flowerbed Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Gaseous Shadow Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, Gaseous Light Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Gaseous Shadow Cover
 ThermalDynamics:cover:0, Nitor Gas Cover
-ThermalDynamics:cover:0, Gaseous Light Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -45071,6 +45077,7 @@ wirelessindustry:QuantumEnderBoots, Ender Quantum Boots
 wirelessindustry:QuantumPortableCharger, Portable Wireless Charger
 wirelessindustry:ChannelSwitcher, Channel copier
 zettaindustries:zettaindustries.fakeitem, item.null.name
+zettaindustries:BlockTelecomunicationConnector,  Telecommunication Connector
 zettaindustries:SmartCard, Smart Card [WIP]
 zettaindustries:SmartCardTerminal, Smart Card Terminal [WIP]
 zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
@@ -45080,7 +45087,6 @@ zettaindustries:backpack.engineeringT1, item.null.name
 zettaindustries:backpack.engineeringT2, item.null.name
 zettaindustries:backpack.opencomputersT1, item.null.name
 zettaindustries:backpack.opencomputersT2, item.null.name
-zettaindustries:BlockTelecomunicationConnector,  Telecommunication Connector
 ztech:electricFishingRod, Electric Fishing Rod
 ztech:advancedElectricFishingRod, Advanced Electric Fishing Rod
 ztech:meltedSugar, Melted Sugar

@@ -3,9 +3,6 @@
 #### 1.9.3-beta
 
 - Add Adjachest 0.9.9.9beta10
-- Add Beddium 1.0.1-j8
-- Add FalsePatternLIb 1.9.0
-- Removed Neodymium Unofficial 0.4.3 (replaced by Beddium)
 
 #### 1.9.2-beta
 

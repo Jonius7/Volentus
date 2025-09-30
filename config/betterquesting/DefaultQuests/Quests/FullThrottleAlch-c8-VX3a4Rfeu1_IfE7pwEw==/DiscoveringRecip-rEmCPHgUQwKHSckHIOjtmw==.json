@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 6313493422230163026,
+      "questIDLow:4": -8468821519624137085
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "To discover recipes with the §4Atelier§r, you are going to want some Research Vellums.\n\nPlace a Vellum in the top left slot, and some items you want to deconstruct in the central slot. Using the correct item you can discover all sorts of new item recipes.\n\nTo then create the item using the Vellum you have just researched, you will want the required amount of each element. Deconstruct items (without a Vellum in the top left) until you have enough to do s§3§ro.\n\nYou can §3Shift + Click§r the arrow in the top right to deconstruct a whole stack at a time.\n\nYou can place Chests or Storage Units to the right of the Atelier and place recipes you have already discovered inside them. That way you won\u0027t be discovering the same recipe for the umpteenth time as it will look in the chests to see you have that recipe.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "Project_Alchemy:item.pa_vellum"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Discovering Recipes",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6032147029661826302,
+  "questIDLow:4": -8698200172835312229,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Project_Alchemy:item.pa_vellum"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

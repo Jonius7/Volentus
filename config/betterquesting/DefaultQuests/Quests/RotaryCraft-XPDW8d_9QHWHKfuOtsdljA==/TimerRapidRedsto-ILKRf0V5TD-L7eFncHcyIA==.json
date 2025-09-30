@@ -33,5 +33,33 @@
   "questIDHigh:4": 2356105530880642111,
   "questIDLow:4": -8363781098572402144,
   "rewards:9": {},
-  "tasks:9": {}
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 17,
+          "OreDict:8": "",
+          "id:8": "ProjRed|Integration:projectred.integration.gate"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 9,
+          "OreDict:8": "",
+          "id:8": "ExpandedRedstone:expanded redstone_item_placer"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
 }

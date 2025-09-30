@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Grinder is \n\n[img height\u003d120]rotarycraft:2025-09-15_17.22.27.png[/img]",
+      "desc:8": "The Grinder is a key machine able to grind down many materials. It can also do 3x ore processing.\nExample minimum setup:\n[img height\u003d120]rotarycraft:2025-09-15_17.22.27.png[/img]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -1,9 +1,14 @@
 {
-  "preRequisites:9": {},
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -8475826528886831802,
+      "questIDLow:4": -8252541340356794160
+    }
+  },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §4Atelier§r is essential to creating items in FullThrottle Alchemist. You can decompose items into their elemental equivalents (eg: Sulfur, Oxygen, Hydrogen) and store them in §bAlchemical Flasks§r to be used later to create other items.\n\nSetting up an Atelier requires a few other items. You need at least 6 §9Bookshelves§r (in a 2 high by 3 wide rectangle), a §8Cauldron§r filled with water and a §6Crafting Table§r. Place the Crafting Table in the centre and it will transform into an Atelier. It can be powered with a furnace full of coal, or more conveniently, via RF.\n[img height\u003d100]fullthrottle_alchemist:2025-09-14_21.16.30.png[/img]",
+      "desc:8": "The §4Atelier§r is essential to creating items in FullThrottle Alchemist. You can deconstruct items into their elemental equivalents (eg: Sulfur, Oxygen, Hydrogen) and store them in §bAlchemical Flasks§r to be used later to create other items.\n\nSetting up an Atelier requires a few other items. You need at least 6 §9Bookshelves§r (in a 2 high by 3 wide rectangle), a §8Cauldron§r filled with water and a §6Crafting Table§r. Place the Crafting Table in the centre and it will transform into an Atelier. It can be powered with a furnace full of coal, or more conveniently, via RF.\n[img height\u003d100]fullthrottle_alchemist:2025-09-14_21.16.30.png[/img]\n\n",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

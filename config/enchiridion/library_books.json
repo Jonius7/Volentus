@@ -384,6 +384,17 @@
       "openGuiNBT": "",
       "pickUp": false,
       "overwrite": ""
+    },
+    {
+      "mod": "ImmersiveEngineering",
+      "stack": "ImmersiveEngineering:tool 3",
+      "type": "default",
+      "free": true,
+      "onCrafted": false,
+      "openGuiClass": "",
+      "openGuiNBT": "",
+      "pickUp": false,
+      "overwrite": ""
     }
   ]
 }

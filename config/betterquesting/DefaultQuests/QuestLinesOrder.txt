@@ -2,6 +2,7 @@ AAAAAAAAAAAAAAAAAAAAAA==: Getting Started
 AAAAAAAAAAAAAAAAAAAAAQ==: Ars Magica 2
 AAAAAAAAAAAAAAAAAAAAAg==: IndustrialCraft 2
 fhz0J7IpQwGovbxJQT91mQ==: Early Game Tech
+vYOTKmKmTRim4esrscyIAQ==: Farming
 KQYBYmeFQ-KS8z3LesqGOg==: Mining World
 q3UCu3LrS3CAn_XCgnE5wg==: Calculator
 AAAAAAAAAAAAAAAAAAAAAw==: Thermal Expansion
@@ -12,5 +13,6 @@ c8-VX3a4Rfeu1_IfE7pwEw==: FullThrottle Alchemist
 hJowncHJTFiSvLQ7IdSYfg==: Botania
 xLQV6R2bR66GHi1ft-G7jQ==: Ender IO
 ivw9zklpSfWxZstdtCTdRg==: Inductive Automation
+LRkYlwQITIC85k3UG5MNBA==: NuclearCraft
 b9X2Y6vNQq2AU1ZWeRUqWQ==: Mekanism
 rZvPkpTySaGAPEzKRkiF1A==: IC2 Advanced (Addons)
