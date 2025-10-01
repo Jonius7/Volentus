@@ -862,7 +862,7 @@ ThermalFoundation:FluidCoal, Liquifacted Coal
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -1894,6 +1894,7 @@ Botania:pavement4Slab:0, Yellow Portuguese Pavement Slab
 Botania:pavement4SlabFull:0, Yellow Portuguese Pavement Slab
 Botania:pavement5Slab:0, Green Portuguese Pavement Slab
 Botania:pavement5SlabFull:0, Green Portuguese Pavement Slab
+Botania:flower_structurelib, tile.flower_structurelib.name
 Avaritia:Double_Craft, Compressed Crafting Table
 Avaritia:Triple_Craft, Double Compressed Crafting Table
 Avaritia:Dire_Crafting, Dire Crafting Table
@@ -6972,6 +6973,246 @@ chisel:dark_oak_planks:7, Dark Oak Wood Planks
 chisel:dark_oak_planks:12, Dark Oak Wood Planks
 chisel:dark_oak_planks:14, Dark Oak Wood Planks
 chisel:dark_oak_planks:15, Dark Oak Wood Planks
+chisel:sacredoak_planks:1, Sacred Oak Wood Planks
+chisel:sacredoak_planks:2, Sacred Oak Wood Planks
+chisel:sacredoak_planks:6, Sacred Oak Wood Planks
+chisel:sacredoak_planks:8, Sacred Oak Wood Planks
+chisel:sacredoak_planks:9, Sacred Oak Wood Planks
+chisel:sacredoak_planks:10, Sacred Oak Wood Planks
+chisel:sacredoak_planks:11, Sacred Oak Wood Planks
+chisel:sacredoak_planks:13, Sacred Oak Wood Planks
+chisel:sacredoak_planks:3, Sacred Oak Wood Planks
+chisel:sacredoak_planks:4, Sacred Oak Wood Planks
+chisel:sacredoak_planks:5, Sacred Oak Wood Planks
+chisel:sacredoak_planks:7, Sacred Oak Wood Planks
+chisel:sacredoak_planks:12, Sacred Oak Wood Planks
+chisel:sacredoak_planks:14, Sacred Oak Wood Planks
+chisel:sacredoak_planks:15, Sacred Oak Wood Planks
+chisel:cherry_planks:1, Cherry Wood Planks
+chisel:cherry_planks:2, Cherry Wood Planks
+chisel:cherry_planks:6, Cherry Wood Planks
+chisel:cherry_planks:8, Cherry Wood Planks
+chisel:cherry_planks:9, Cherry Wood Planks
+chisel:cherry_planks:10, Cherry Wood Planks
+chisel:cherry_planks:11, Cherry Wood Planks
+chisel:cherry_planks:13, Cherry Wood Planks
+chisel:cherry_planks:3, Cherry Wood Planks
+chisel:cherry_planks:4, Cherry Wood Planks
+chisel:cherry_planks:5, Cherry Wood Planks
+chisel:cherry_planks:7, Cherry Wood Planks
+chisel:cherry_planks:12, Cherry Wood Planks
+chisel:cherry_planks:14, Cherry Wood Planks
+chisel:cherry_planks:15, Cherry Wood Planks
+chisel:dark_planks:1, Dark Wood Planks
+chisel:dark_planks:2, Dark Wood Planks
+chisel:dark_planks:6, Dark Wood Planks
+chisel:dark_planks:8, Dark Wood Planks
+chisel:dark_planks:9, Dark Wood Planks
+chisel:dark_planks:10, Dark Wood Planks
+chisel:dark_planks:11, Dark Wood Planks
+chisel:dark_planks:13, Dark Wood Planks
+chisel:dark_planks:3, Dark Wood Planks
+chisel:dark_planks:4, Dark Wood Planks
+chisel:dark_planks:5, Dark Wood Planks
+chisel:dark_planks:7, Dark Wood Planks
+chisel:dark_planks:12, Dark Wood Planks
+chisel:dark_planks:14, Dark Wood Planks
+chisel:dark_planks:15, Dark Wood Planks
+chisel:fir_planks:1, Fir Wood Planks
+chisel:fir_planks:2, Fir Wood Planks
+chisel:fir_planks:6, Fir Wood Planks
+chisel:fir_planks:8, Fir Wood Planks
+chisel:fir_planks:9, Fir Wood Planks
+chisel:fir_planks:10, Fir Wood Planks
+chisel:fir_planks:11, Fir Wood Planks
+chisel:fir_planks:13, Fir Wood Planks
+chisel:fir_planks:3, Fir Wood Planks
+chisel:fir_planks:4, Fir Wood Planks
+chisel:fir_planks:5, Fir Wood Planks
+chisel:fir_planks:7, Fir Wood Planks
+chisel:fir_planks:12, Fir Wood Planks
+chisel:fir_planks:14, Fir Wood Planks
+chisel:fir_planks:15, Fir Wood Planks
+chisel:ethereal_planks:1, Ethereal Wood Planks
+chisel:ethereal_planks:2, Ethereal Wood Planks
+chisel:ethereal_planks:6, Ethereal Wood Planks
+chisel:ethereal_planks:8, Ethereal Wood Planks
+chisel:ethereal_planks:9, Ethereal Wood Planks
+chisel:ethereal_planks:10, Ethereal Wood Planks
+chisel:ethereal_planks:11, Ethereal Wood Planks
+chisel:ethereal_planks:13, Ethereal Wood Planks
+chisel:ethereal_planks:3, Ethereal Wood Planks
+chisel:ethereal_planks:4, Ethereal Wood Planks
+chisel:ethereal_planks:5, Ethereal Wood Planks
+chisel:ethereal_planks:7, Ethereal Wood Planks
+chisel:ethereal_planks:12, Ethereal Wood Planks
+chisel:ethereal_planks:14, Ethereal Wood Planks
+chisel:ethereal_planks:15, Ethereal Wood Planks
+chisel:magic_planks:1, Magic Wood Planks
+chisel:magic_planks:2, Magic Wood Planks
+chisel:magic_planks:6, Magic Wood Planks
+chisel:magic_planks:8, Magic Wood Planks
+chisel:magic_planks:9, Magic Wood Planks
+chisel:magic_planks:10, Magic Wood Planks
+chisel:magic_planks:11, Magic Wood Planks
+chisel:magic_planks:13, Magic Wood Planks
+chisel:magic_planks:3, Magic Wood Planks
+chisel:magic_planks:4, Magic Wood Planks
+chisel:magic_planks:5, Magic Wood Planks
+chisel:magic_planks:7, Magic Wood Planks
+chisel:magic_planks:12, Magic Wood Planks
+chisel:magic_planks:14, Magic Wood Planks
+chisel:magic_planks:15, Magic Wood Planks
+chisel:mangrove_planks:1, Mangrove Wood Planks
+chisel:mangrove_planks:2, Mangrove Wood Planks
+chisel:mangrove_planks:6, Mangrove Wood Planks
+chisel:mangrove_planks:8, Mangrove Wood Planks
+chisel:mangrove_planks:9, Mangrove Wood Planks
+chisel:mangrove_planks:10, Mangrove Wood Planks
+chisel:mangrove_planks:11, Mangrove Wood Planks
+chisel:mangrove_planks:13, Mangrove Wood Planks
+chisel:mangrove_planks:3, Mangrove Wood Planks
+chisel:mangrove_planks:4, Mangrove Wood Planks
+chisel:mangrove_planks:5, Mangrove Wood Planks
+chisel:mangrove_planks:7, Mangrove Wood Planks
+chisel:mangrove_planks:12, Mangrove Wood Planks
+chisel:mangrove_planks:14, Mangrove Wood Planks
+chisel:mangrove_planks:15, Mangrove Wood Planks
+chisel:palm_planks:1, Palm Wood Planks
+chisel:palm_planks:2, Palm Wood Planks
+chisel:palm_planks:6, Palm Wood Planks
+chisel:palm_planks:8, Palm Wood Planks
+chisel:palm_planks:9, Palm Wood Planks
+chisel:palm_planks:10, Palm Wood Planks
+chisel:palm_planks:11, Palm Wood Planks
+chisel:palm_planks:13, Palm Wood Planks
+chisel:palm_planks:3, Palm Wood Planks
+chisel:palm_planks:4, Palm Wood Planks
+chisel:palm_planks:5, Palm Wood Planks
+chisel:palm_planks:7, Palm Wood Planks
+chisel:palm_planks:12, Palm Wood Planks
+chisel:palm_planks:14, Palm Wood Planks
+chisel:palm_planks:15, Palm Wood Planks
+chisel:redwood_planks:1, Redwood Wood Planks
+chisel:redwood_planks:2, Redwood Wood Planks
+chisel:redwood_planks:6, Redwood Wood Planks
+chisel:redwood_planks:8, Redwood Wood Planks
+chisel:redwood_planks:9, Redwood Wood Planks
+chisel:redwood_planks:10, Redwood Wood Planks
+chisel:redwood_planks:11, Redwood Wood Planks
+chisel:redwood_planks:13, Redwood Wood Planks
+chisel:redwood_planks:3, Redwood Wood Planks
+chisel:redwood_planks:4, Redwood Wood Planks
+chisel:redwood_planks:5, Redwood Wood Planks
+chisel:redwood_planks:7, Redwood Wood Planks
+chisel:redwood_planks:12, Redwood Wood Planks
+chisel:redwood_planks:14, Redwood Wood Planks
+chisel:redwood_planks:15, Redwood Wood Planks
+chisel:willow_planks:1, Willow Wood Planks
+chisel:willow_planks:2, Willow Wood Planks
+chisel:willow_planks:6, Willow Wood Planks
+chisel:willow_planks:8, Willow Wood Planks
+chisel:willow_planks:9, Willow Wood Planks
+chisel:willow_planks:10, Willow Wood Planks
+chisel:willow_planks:11, Willow Wood Planks
+chisel:willow_planks:13, Willow Wood Planks
+chisel:willow_planks:3, Willow Wood Planks
+chisel:willow_planks:4, Willow Wood Planks
+chisel:willow_planks:5, Willow Wood Planks
+chisel:willow_planks:7, Willow Wood Planks
+chisel:willow_planks:12, Willow Wood Planks
+chisel:willow_planks:14, Willow Wood Planks
+chisel:willow_planks:15, Willow Wood Planks
+chisel:pine_planks:1, Pine Wood Planks
+chisel:pine_planks:2, Pine Wood Planks
+chisel:pine_planks:6, Pine Wood Planks
+chisel:pine_planks:8, Pine Wood Planks
+chisel:pine_planks:9, Pine Wood Planks
+chisel:pine_planks:10, Pine Wood Planks
+chisel:pine_planks:11, Pine Wood Planks
+chisel:pine_planks:13, Pine Wood Planks
+chisel:pine_planks:3, Pine Wood Planks
+chisel:pine_planks:4, Pine Wood Planks
+chisel:pine_planks:5, Pine Wood Planks
+chisel:pine_planks:7, Pine Wood Planks
+chisel:pine_planks:12, Pine Wood Planks
+chisel:pine_planks:14, Pine Wood Planks
+chisel:pine_planks:15, Pine Wood Planks
+chisel:hellbark_planks:1, Hellbark Wood Planks
+chisel:hellbark_planks:2, Hellbark Wood Planks
+chisel:hellbark_planks:6, Hellbark Wood Planks
+chisel:hellbark_planks:8, Hellbark Wood Planks
+chisel:hellbark_planks:9, Hellbark Wood Planks
+chisel:hellbark_planks:10, Hellbark Wood Planks
+chisel:hellbark_planks:11, Hellbark Wood Planks
+chisel:hellbark_planks:13, Hellbark Wood Planks
+chisel:hellbark_planks:3, Hellbark Wood Planks
+chisel:hellbark_planks:4, Hellbark Wood Planks
+chisel:hellbark_planks:5, Hellbark Wood Planks
+chisel:hellbark_planks:7, Hellbark Wood Planks
+chisel:hellbark_planks:12, Hellbark Wood Planks
+chisel:hellbark_planks:14, Hellbark Wood Planks
+chisel:hellbark_planks:15, Hellbark Wood Planks
+chisel:jacaranda_planks:1, Jacaranda Wood Planks
+chisel:jacaranda_planks:2, Jacaranda Wood Planks
+chisel:jacaranda_planks:6, Jacaranda Wood Planks
+chisel:jacaranda_planks:8, Jacaranda Wood Planks
+chisel:jacaranda_planks:9, Jacaranda Wood Planks
+chisel:jacaranda_planks:10, Jacaranda Wood Planks
+chisel:jacaranda_planks:11, Jacaranda Wood Planks
+chisel:jacaranda_planks:13, Jacaranda Wood Planks
+chisel:jacaranda_planks:3, Jacaranda Wood Planks
+chisel:jacaranda_planks:4, Jacaranda Wood Planks
+chisel:jacaranda_planks:5, Jacaranda Wood Planks
+chisel:jacaranda_planks:7, Jacaranda Wood Planks
+chisel:jacaranda_planks:12, Jacaranda Wood Planks
+chisel:jacaranda_planks:14, Jacaranda Wood Planks
+chisel:jacaranda_planks:15, Jacaranda Wood Planks
+chisel:mahogany_planks:1, Mahogany Wood Planks
+chisel:mahogany_planks:2, Mahogany Wood Planks
+chisel:mahogany_planks:6, Mahogany Wood Planks
+chisel:mahogany_planks:8, Mahogany Wood Planks
+chisel:mahogany_planks:9, Mahogany Wood Planks
+chisel:mahogany_planks:10, Mahogany Wood Planks
+chisel:mahogany_planks:11, Mahogany Wood Planks
+chisel:mahogany_planks:13, Mahogany Wood Planks
+chisel:mahogany_planks:3, Mahogany Wood Planks
+chisel:mahogany_planks:4, Mahogany Wood Planks
+chisel:mahogany_planks:5, Mahogany Wood Planks
+chisel:mahogany_planks:7, Mahogany Wood Planks
+chisel:mahogany_planks:12, Mahogany Wood Planks
+chisel:mahogany_planks:14, Mahogany Wood Planks
+chisel:mahogany_planks:15, Mahogany Wood Planks
+chisel:greatwood_planks:1, Greatwood Wood Planks
+chisel:greatwood_planks:2, Greatwood Wood Planks
+chisel:greatwood_planks:6, Greatwood Wood Planks
+chisel:greatwood_planks:8, Greatwood Wood Planks
+chisel:greatwood_planks:9, Greatwood Wood Planks
+chisel:greatwood_planks:10, Greatwood Wood Planks
+chisel:greatwood_planks:11, Greatwood Wood Planks
+chisel:greatwood_planks:13, Greatwood Wood Planks
+chisel:greatwood_planks:3, Greatwood Wood Planks
+chisel:greatwood_planks:4, Greatwood Wood Planks
+chisel:greatwood_planks:5, Greatwood Wood Planks
+chisel:greatwood_planks:7, Greatwood Wood Planks
+chisel:greatwood_planks:12, Greatwood Wood Planks
+chisel:greatwood_planks:14, Greatwood Wood Planks
+chisel:greatwood_planks:15, Greatwood Wood Planks
+chisel:silverwood_planks:1, Silverwood Wood Planks
+chisel:silverwood_planks:2, Silverwood Wood Planks
+chisel:silverwood_planks:6, Silverwood Wood Planks
+chisel:silverwood_planks:8, Silverwood Wood Planks
+chisel:silverwood_planks:9, Silverwood Wood Planks
+chisel:silverwood_planks:10, Silverwood Wood Planks
+chisel:silverwood_planks:11, Silverwood Wood Planks
+chisel:silverwood_planks:13, Silverwood Wood Planks
+chisel:silverwood_planks:3, Silverwood Wood Planks
+chisel:silverwood_planks:4, Silverwood Wood Planks
+chisel:silverwood_planks:5, Silverwood Wood Planks
+chisel:silverwood_planks:7, Silverwood Wood Planks
+chisel:silverwood_planks:12, Silverwood Wood Planks
+chisel:silverwood_planks:14, Silverwood Wood Planks
+chisel:silverwood_planks:15, Silverwood Wood Planks
 chisel:woolen_clay:0, Woolen Clay
 chisel:woolen_clay:1, Woolen Clay
 chisel:woolen_clay:2, Woolen Clay
@@ -7656,6 +7897,18 @@ minechem:fluid.molecule.thc.name, THC
 minechem:fluid.molecule.mt.name, Methylcyclopentadienyl Manganese Tricarbonyl
 minechem:fluid.molecule.buli.name, Tert-Butyllithium
 minechem:fluid.molecule.plat.name, Chloroplatinic Acid
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 minechem:fluid.molecule.phosgene.name, Phosgene
 minechem:fluid.molecule.aalc.name, Allyl Alcohol
 minechem:fluid.molecule.hist.name, Diphenhydramine
@@ -7673,18 +7926,6 @@ minechem:fluid.molecule.purpleorgodye.name, Delphinidin
 minechem:fluid.molecule.olivine.name, Olivine
 minechem:fluid.molecule.metblue.name, Methylene Blue
 minechem:fluid.molecule.meoh.name, Methyl Alcohol
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 minechem:fluid.molecule.lcd.name, Cholesteryl Benzoate
 minechem:fluid.molecule.radchlor.name, Radium Chloride
 minechem:fluid.molecule.caulerpenyne.name, Caulerpenyne
@@ -9260,9 +9501,7 @@ assemblyline:cartPowerRail:6, Extention Rail
 assemblyline:cartPowerRail:7, Splitter Rail
 assemblyline:insertArm, Inserter
 assemblyline:cartTransportRail, Transport Rail
-aura:storageBookshelf, Storage Bookshelf
-aura:monitor, Monitor
-aura:storageBookshelfCoordinator, Bookshelf Coordinator
+aura:magicRoad, Traveler's Bricks
 aura:auraNode, Aura Node
 aura:auraNodepump, Burning Aura Pump
 aura:auraNodeblack, Aura Manipulator: Black
@@ -9282,14 +9521,7 @@ aura:auraNodepumpCreative, Creative Pump (Creative Only)
 aura:auraNodepumpLightAlt, Alternating Illumination Aura Pump
 aura:auraNodepumpRedstoneAlt, Alternating Redstone Aura Pump
 aura:auraNodeflux, Fluxing Node
-aura:fairyTorch, tile.fairyTorch.name
-aura:magicRoad, Traveler's Bricks
-aura:fortifiedDirt, Fortified Dirt
-aura:fortifiedWood, Fortified Planks
-aura:fortifiedGlass, Fortified Glass
-aura:fortifiedCobblestone, Fortified Cobblestone
-aura:fortifiedStone, Fortified Stone
-aura:fortifiedObsidian, Fortified Obsidian
+aura:storageBookshelf, Storage Bookshelf
 aura:consumerBlockfurnace, Cascading Smelter
 aura:consumerBlockplant, Cascading Grower
 aura:consumerBlockore, Cascading Processor
@@ -9304,7 +9536,16 @@ aura:consumerBlockoreAdv, Prismatic Processor
 aura:consumerBlockminer, Cascading Miner
 aura:consumerBlockfish, Cascading Fisher
 aura:consumerBlockend, Ritual of the End
+aura:storageBookshelfCoordinator, Bookshelf Coordinator
 aura:trampoline, Rebounding Enigma
+aura:fairyTorch, tile.fairyTorch.name
+aura:monitor, Monitor
+aura:fortifiedDirt, Fortified Dirt
+aura:fortifiedWood, Fortified Planks
+aura:fortifiedGlass, Fortified Glass
+aura:fortifiedCobblestone, Fortified Cobblestone
+aura:fortifiedStone, Fortified Stone
+aura:fortifiedObsidian, Fortified Obsidian
 Automagy:blockRedcrystal, Redcrystal
 Automagy:blockRedcrystalAmp, Amplified Redcrystal
 Automagy:blockRedcrystalDim, Dim Redcrystal
@@ -10729,44 +10970,44 @@ Botany:stained, Pigmented Glass
 Botany:ceramicPattern, Ceramic Block
 Botany:ceramicBrick, Ceramic Tile
 ThaumicTinkerer:infusedFarmland, Infused Farmland
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:infusedGrainBlock, Imbued Grain
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:nitorGas, Nitor Gas
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:platform, Ethereal Platform
 ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
 ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:gaseousLight, Gaseous Light
-ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
-ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
-ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:infusedGrainBlock, Imbued Grain
 ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
 ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
 ThaumicTinkerer:forcefield, Forcefield
 ThaumicTinkerer:golemConnector, Golem Connector
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
+ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
+ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:gaseousLight, Gaseous Light
+ThaumicTinkerer:repairer, Thaumic Restorer
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:gaseousShadow, Gaseous Shadow
-ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
-ThaumicTinkerer:nitorGas, Nitor Gas
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -12479,23 +12720,6 @@ hexcraft:blockMiniEnergizedHexoriumPink, Mini Energized Hexorium (Pink)
 hexcraft:blockMiniEnergizedHexoriumWhite, Mini Energized Hexorium (White)
 hexcraft:blockMiniEnergizedHexoriumLightGray, Mini Energized Hexorium (Light Gray)
 hexcraft:blockMiniEnergizedHexoriumGray, Mini Energized Hexorium (Gray)
-hexcraft:blockMiniEnergizedHexoriumDarkGray, Mini Energized Hexorium (Dark Gray)
-hexcraft:blockMiniEnergizedHexoriumBlack, Mini Energized Hexorium (Black)
-hexcraft:blockMiniEnergizedHexoriumRainbow, Mini Energized Hexorium (Rainbow)
-hexcraft:blockEnergizedHexoriumMonolithRed, Energized Hexorium Monolith (Red)
-hexcraft:blockEnergizedHexoriumMonolithOrange, Energized Hexorium Monolith (Orange)
-hexcraft:blockEnergizedHexoriumMonolithYellow, Energized Hexorium Monolith (Yellow)
-hexcraft:blockEnergizedHexoriumMonolithLime, Energized Hexorium Monolith (Lime)
-hexcraft:blockEnergizedHexoriumMonolithGreen, Energized Hexorium Monolith (Green)
-hexcraft:blockEnergizedHexoriumMonolithTurquoise, Energized Hexorium Monolith (Turquoise)
-hexcraft:blockEnergizedHexoriumMonolithCyan, Energized Hexorium Monolith (Cyan)
-hexcraft:blockEnergizedHexoriumMonolithSkyBlue, Energized Hexorium Monolith (Sky Blue)
-hexcraft:blockEnergizedHexoriumMonolithBlue, Energized Hexorium Monolith (Blue)
-hexcraft:blockEnergizedHexoriumMonolithPurple, Energized Hexorium Monolith (Purple)
-hexcraft:blockEnergizedHexoriumMonolithMagenta, Energized Hexorium Monolith (Magenta)
-hexcraft:blockEnergizedHexoriumMonolithPink, Energized Hexorium Monolith (Pink)
-hexcraft:blockEnergizedHexoriumMonolithWhite, Energized Hexorium Monolith (White)
-hexcraft:blockEnergizedHexoriumMonolithLightGray, Energized Hexorium Monolith (Light Gray)
 Aroma1997Core:wrench, Aromic Hammer
 Pistronics2:Glue, Glue
 Pistronics2:Super Glue, Super Glue
@@ -19109,6 +19333,246 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
@@ -19484,10 +19948,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyanite Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Graphite Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Blutonium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ludicrite Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
@@ -20948,19 +21412,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hell Bark Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Eucalyptus Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sakura Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ghostwood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hopseed Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Maple Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverbell Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Amaranth Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Tigerwood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Darkwood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Fusewood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Larch Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Teak Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Trim
@@ -20990,6 +21441,19 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Ipe Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Padauk Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Cocobolo Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Zebrawood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Eucalyptus Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sakura Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ghostwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hopseed Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Maple Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverbell Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Amaranth Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tigerwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Darkwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fusewood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Alchemite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Chocolate
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Planar Boundary
@@ -21485,13 +21949,6 @@ chisel:cloudinabottle, Cloud In A Bottle
 chisel:smashingrock, Smashing Rock
 funkylocomotion:wrench:0, Wrench
 funkylocomotion:wrench:1, iWrench
-RedstoneArsenal:material:0, Fluxed Electrum Blend
-RedstoneArsenal:material:32, Fluxed Electrum Ingot
-RedstoneArsenal:material:64, Fluxed Electrum Nugget
-RedstoneArsenal:material:96, Flux Crystal
-RedstoneArsenal:material:128, Fluxed Armor Plating
-RedstoneArsenal:material:192, Obsidian Rod
-RedstoneArsenal:material:193, Flux-Infused Obsidian Rod
 RedstoneArsenal:armor.helmetFlux, Flux-Infused Helm
 RedstoneArsenal:armor.plateFlux, Flux-Infused Chestplate
 RedstoneArsenal:armor.legsFlux, Flux-Infused Leggings
@@ -22933,56 +23390,56 @@ ActuallyAdditions:itemChestCrystalWhite, Enori Crystal Chest
 ActuallyAdditions:itemPantsCrystalWhite, Enori Crystal Pants
 ActuallyAdditions:itemBootsCrystalWhite, Enori Crystal Boots
 ActuallyAdditions:itemPaxelCrystalWhite, Enori Crystal AIOT
-factorization:darkIronChain, Chain
-factorization:chainLink, Dark Iron Chain Link
-factorization:servo/servo, Servo
-factorization:sludge, Sludge
-factorization:logic_matrix, Blank Logic Matrix
-factorization:fan, Pressurizer
-factorization:servo/component, item.factorization:servo/component.name
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:silver_ingot, Silver Ingot
-factorization:dark_iron_ingot, Dark Iron Ingot
 factorization:motor, Motor
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:corkscrew, Corkscrew
-factorization:servo/commenter, Commenter
-factorization:entheas, Entheas
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:tool/charge_meter, Charge Meter
-factorization:barrelCart:0, Barrel Cart
-factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:servo/instruction_plate, Instruction Plate
-factorization:nether_powder, Netherrack Powder
-factorization:servo/servo_motor, Servo Motor
 factorization:acid:0, Sulfuric Acid
 factorization:acid:1, Aqua Regia
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:socket/scissors, Enormous Scissors
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:insulated_coil, Insulated Coil
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:lead_ingot, Lead Ingot
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:charge_battery, Battery Block
-factorization:spawnPoster, Poster
-factorization:potencyBottle, Bottle of Potency
-factorization:shortChain, Short Length of Chain
-factorization:docbook, The Factorization Manual
+factorization:fan, Pressurizer
 factorization:mirror, Mirror
-factorization:sculptTool:0, Sculpting Tool
+factorization:servo/component, item.factorization:servo/component.name
 factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:sap, Sap
-factorization:colossusGuide, Lost Map
-factorization:utiligoo:0, Goo
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:lead_ingot, Lead Ingot
+factorization:sculptTool:0, Sculpting Tool
+factorization:potencyBottle, Bottle of Potency
+factorization:insulated_coil, Insulated Coil
+factorization:tool/charge_meter, Charge Meter
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:silver_ingot, Silver Ingot
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:ceramics/glaze_bucket, Glaze Bucket
 factorization:mansandwich:0, Manwich
 factorization:mansandwich:1, Spicy Manwich
+factorization:corkscrew, Corkscrew
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:sludge, Sludge
+factorization:sap, Sap
+factorization:chainLink, Dark Iron Chain Link
+factorization:barrelCart:0, Barrel Cart
+factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:servo/commenter, Commenter
+factorization:darkIronChain, Chain
+factorization:charge_battery, Battery Block
+factorization:servo/instruction_plate, Instruction Plate
 factorization:socket/:34, Robotic Arm
 factorization:socket/:35, Item Shifter
-factorization:diamond_shard, Diamond Block Shard
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:nether_powder, Netherrack Powder
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:docbook, The Factorization Manual
 factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:diamond_shard, Diamond Block Shard
+factorization:logic_matrix, Blank Logic Matrix
+factorization:shortChain, Short Length of Chain
+factorization:socket/scissors, Enormous Scissors
+factorization:servo/servo, Servo
+factorization:utiligoo:0, Goo
+factorization:servo/servo_motor, Servo Motor
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:colossusGuide, Lost Map
+factorization:spawnPoster, Poster
+factorization:entheas, Entheas
 LogisticsPipes:item.logisticsItemCard:0, Logistics Item Card
 LogisticsPipes:item.remoteOrdererItem, Remote Orderer
 LogisticsPipes:item.ItemPipeSignCreator, Sign Creator
@@ -29384,6 +29841,23 @@ GraviSuite:itemSimpleItem:3, itemGravitationEngine.name
 GraviSuite:itemSimpleItem:4, itemMagnetron.name
 GraviSuite:itemSimpleItem:5, itemVajraCore.name
 GraviSuite:itemSimpleItem:6, itemEngineBoost.name
+hexcraft:blockMiniEnergizedHexoriumDarkGray, Mini Energized Hexorium (Dark Gray)
+hexcraft:blockMiniEnergizedHexoriumBlack, Mini Energized Hexorium (Black)
+hexcraft:blockMiniEnergizedHexoriumRainbow, Mini Energized Hexorium (Rainbow)
+hexcraft:blockEnergizedHexoriumMonolithRed, Energized Hexorium Monolith (Red)
+hexcraft:blockEnergizedHexoriumMonolithOrange, Energized Hexorium Monolith (Orange)
+hexcraft:blockEnergizedHexoriumMonolithYellow, Energized Hexorium Monolith (Yellow)
+hexcraft:blockEnergizedHexoriumMonolithLime, Energized Hexorium Monolith (Lime)
+hexcraft:blockEnergizedHexoriumMonolithGreen, Energized Hexorium Monolith (Green)
+hexcraft:blockEnergizedHexoriumMonolithTurquoise, Energized Hexorium Monolith (Turquoise)
+hexcraft:blockEnergizedHexoriumMonolithCyan, Energized Hexorium Monolith (Cyan)
+hexcraft:blockEnergizedHexoriumMonolithSkyBlue, Energized Hexorium Monolith (Sky Blue)
+hexcraft:blockEnergizedHexoriumMonolithBlue, Energized Hexorium Monolith (Blue)
+hexcraft:blockEnergizedHexoriumMonolithPurple, Energized Hexorium Monolith (Purple)
+hexcraft:blockEnergizedHexoriumMonolithMagenta, Energized Hexorium Monolith (Magenta)
+hexcraft:blockEnergizedHexoriumMonolithPink, Energized Hexorium Monolith (Pink)
+hexcraft:blockEnergizedHexoriumMonolithWhite, Energized Hexorium Monolith (White)
+hexcraft:blockEnergizedHexoriumMonolithLightGray, Energized Hexorium Monolith (Light Gray)
 hexcraft:blockEnergizedHexoriumMonolithGray, Energized Hexorium Monolith (Gray)
 hexcraft:blockEnergizedHexoriumMonolithDarkGray, Energized Hexorium Monolith (Dark Gray)
 hexcraft:blockEnergizedHexoriumMonolithBlack, Energized Hexorium Monolith (Black)
@@ -34643,11 +35117,11 @@ OpenBlocks:spongeonastick, Sponge
 OpenBlocks:pedometer, Pedometer
 OpenBlocks:epicEraser, Epic Eraser
 OpenBlocks:wrench, Big Metal Bar
-OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:ticketmachine, Ticket Machine
 OpenPeripheral:glasses:0, Terminal Glasses
 OpenPeripheral:keyboard, Wireless Keyboard
@@ -36094,84 +36568,6 @@ StorageDrawersBop:trim:11, Pine Trim
 StorageDrawersBop:trim:12, Hell Bark Trim
 StorageDrawersBop:trim:13, Jacaranda Trim
 StorageDrawersBop:trim:14, Mahogany Trim
-StorageDrawersNatura:fullDrawers1:0, Eucalyptus Drawer
-StorageDrawersNatura:fullDrawers1:1, Sakura Drawer
-StorageDrawersNatura:fullDrawers1:2, Ghostwood Drawer
-StorageDrawersNatura:fullDrawers1:3, Redwood Drawer
-StorageDrawersNatura:fullDrawers1:4, Blood Drawer
-StorageDrawersNatura:fullDrawers1:5, Hopseed Drawer
-StorageDrawersNatura:fullDrawers1:6, Maple Drawer
-StorageDrawersNatura:fullDrawers1:7, Silverbell Drawer
-StorageDrawersNatura:fullDrawers1:8, Amaranth Drawer
-StorageDrawersNatura:fullDrawers1:9, Tigerwood Drawer
-StorageDrawersNatura:fullDrawers1:10, Willow Drawer
-StorageDrawersNatura:fullDrawers1:11, Darkwood Drawer
-StorageDrawersNatura:fullDrawers1:12, Fusewood Drawer
-StorageDrawersNatura:fullDrawers2:0, Eucalyptus Drawers 1x2
-StorageDrawersNatura:fullDrawers2:1, Sakura Drawers 1x2
-StorageDrawersNatura:fullDrawers2:2, Ghostwood Drawers 1x2
-StorageDrawersNatura:fullDrawers2:3, Redwood Drawers 1x2
-StorageDrawersNatura:fullDrawers2:4, Blood Drawers 1x2
-StorageDrawersNatura:fullDrawers2:5, Hopseed Drawers 1x2
-StorageDrawersNatura:fullDrawers2:6, Maple Drawers 1x2
-StorageDrawersNatura:fullDrawers2:7, Silverbell Drawers 1x2
-StorageDrawersNatura:fullDrawers2:8, Amaranth Drawers 1x2
-StorageDrawersNatura:fullDrawers2:9, Tigerwood Drawers 1x2
-StorageDrawersNatura:fullDrawers2:10, Willow Drawers 1x2
-StorageDrawersNatura:fullDrawers2:11, Darkwood Drawers 1x2
-StorageDrawersNatura:fullDrawers2:12, Fusewood Drawers 1x2
-StorageDrawersNatura:fullDrawers4:0, Eucalyptus Drawers 2x2
-StorageDrawersNatura:fullDrawers4:1, Sakura Drawers 2x2
-StorageDrawersNatura:fullDrawers4:2, Ghostwood Drawers 2x2
-StorageDrawersNatura:fullDrawers4:3, Redwood Drawers 2x2
-StorageDrawersNatura:fullDrawers4:4, Blood Drawers 2x2
-StorageDrawersNatura:fullDrawers4:5, Hopseed Drawers 2x2
-StorageDrawersNatura:fullDrawers4:6, Maple Drawers 2x2
-StorageDrawersNatura:fullDrawers4:7, Silverbell Drawers 2x2
-StorageDrawersNatura:fullDrawers4:8, Amaranth Drawers 2x2
-StorageDrawersNatura:fullDrawers4:9, Tigerwood Drawers 2x2
-StorageDrawersNatura:fullDrawers4:10, Willow Drawers 2x2
-StorageDrawersNatura:fullDrawers4:11, Darkwood Drawers 2x2
-StorageDrawersNatura:fullDrawers4:12, Fusewood Drawers 2x2
-StorageDrawersNatura:halfDrawers2:0, Compact Eucalyptus Drawers 1x2
-StorageDrawersNatura:halfDrawers2:1, Compact Sakura Drawers 1x2
-StorageDrawersNatura:halfDrawers2:2, Compact Ghostwood Drawers 1x2
-StorageDrawersNatura:halfDrawers2:3, Compact Redwood Drawers 1x2
-StorageDrawersNatura:halfDrawers2:4, Compact Blood Drawers 1x2
-StorageDrawersNatura:halfDrawers2:5, Compact Hopseed Drawers 1x2
-StorageDrawersNatura:halfDrawers2:6, Compact Maple Drawers 1x2
-StorageDrawersNatura:halfDrawers2:7, Compact Silverbell Drawers 1x2
-StorageDrawersNatura:halfDrawers2:8, Compact Amaranth Drawers 1x2
-StorageDrawersNatura:halfDrawers2:9, Compact Tigerwood Drawers 1x2
-StorageDrawersNatura:halfDrawers2:10, Compact Willow Drawers 1x2
-StorageDrawersNatura:halfDrawers2:11, Compact Darkwood Drawers 1x2
-StorageDrawersNatura:halfDrawers2:12, Compact Fusewood Drawers 1x2
-StorageDrawersNatura:halfDrawers4:0, Compact Eucalyptus Drawers 2x2
-StorageDrawersNatura:halfDrawers4:1, Compact Sakura Drawers 2x2
-StorageDrawersNatura:halfDrawers4:2, Compact Ghostwood Drawers 2x2
-StorageDrawersNatura:halfDrawers4:3, Compact Redwood Drawers 2x2
-StorageDrawersNatura:halfDrawers4:4, Compact Blood Drawers 2x2
-StorageDrawersNatura:halfDrawers4:5, Compact Hopseed Drawers 2x2
-StorageDrawersNatura:halfDrawers4:6, Compact Maple Drawers 2x2
-StorageDrawersNatura:halfDrawers4:7, Compact Silverbell Drawers 2x2
-StorageDrawersNatura:halfDrawers4:8, Compact Amaranth Drawers 2x2
-StorageDrawersNatura:halfDrawers4:9, Compact Tigerwood Drawers 2x2
-StorageDrawersNatura:halfDrawers4:10, Compact Willow Drawers 2x2
-StorageDrawersNatura:halfDrawers4:11, Compact Darkwood Drawers 2x2
-StorageDrawersNatura:halfDrawers4:12, Compact Fusewood Drawers 2x2
-StorageDrawersNatura:trim:0, Eucalyptus Trim
-StorageDrawersNatura:trim:1, Sakura Trim
-StorageDrawersNatura:trim:2, Ghostwood Trim
-StorageDrawersNatura:trim:3, Redwood Trim
-StorageDrawersNatura:trim:4, Blood Trim
-StorageDrawersNatura:trim:5, Hopseed Trim
-StorageDrawersNatura:trim:6, Maple Trim
-StorageDrawersNatura:trim:7, Silverbell Trim
-StorageDrawersNatura:trim:8, Amaranth Trim
-StorageDrawersNatura:trim:9, Tigerwood Trim
-StorageDrawersNatura:trim:10, Willow Trim
-StorageDrawersNatura:trim:11, Darkwood Trim
-StorageDrawersNatura:trim:12, Fusewood Trim
 StorageDrawersForestry:fullDrawers1A:0, Larch Drawer
 StorageDrawersForestry:fullDrawers1A:1, Teak Drawer
 StorageDrawersForestry:fullDrawers1A:2, Acacia Drawer
@@ -36346,6 +36742,84 @@ StorageDrawersForestry:trimB:9, Ipe Trim
 StorageDrawersForestry:trimB:10, Padauk Trim
 StorageDrawersForestry:trimB:11, Cocobolo Trim
 StorageDrawersForestry:trimB:12, Zebrawood Trim
+StorageDrawersNatura:fullDrawers1:0, Eucalyptus Drawer
+StorageDrawersNatura:fullDrawers1:1, Sakura Drawer
+StorageDrawersNatura:fullDrawers1:2, Ghostwood Drawer
+StorageDrawersNatura:fullDrawers1:3, Redwood Drawer
+StorageDrawersNatura:fullDrawers1:4, Blood Drawer
+StorageDrawersNatura:fullDrawers1:5, Hopseed Drawer
+StorageDrawersNatura:fullDrawers1:6, Maple Drawer
+StorageDrawersNatura:fullDrawers1:7, Silverbell Drawer
+StorageDrawersNatura:fullDrawers1:8, Amaranth Drawer
+StorageDrawersNatura:fullDrawers1:9, Tigerwood Drawer
+StorageDrawersNatura:fullDrawers1:10, Willow Drawer
+StorageDrawersNatura:fullDrawers1:11, Darkwood Drawer
+StorageDrawersNatura:fullDrawers1:12, Fusewood Drawer
+StorageDrawersNatura:fullDrawers2:0, Eucalyptus Drawers 1x2
+StorageDrawersNatura:fullDrawers2:1, Sakura Drawers 1x2
+StorageDrawersNatura:fullDrawers2:2, Ghostwood Drawers 1x2
+StorageDrawersNatura:fullDrawers2:3, Redwood Drawers 1x2
+StorageDrawersNatura:fullDrawers2:4, Blood Drawers 1x2
+StorageDrawersNatura:fullDrawers2:5, Hopseed Drawers 1x2
+StorageDrawersNatura:fullDrawers2:6, Maple Drawers 1x2
+StorageDrawersNatura:fullDrawers2:7, Silverbell Drawers 1x2
+StorageDrawersNatura:fullDrawers2:8, Amaranth Drawers 1x2
+StorageDrawersNatura:fullDrawers2:9, Tigerwood Drawers 1x2
+StorageDrawersNatura:fullDrawers2:10, Willow Drawers 1x2
+StorageDrawersNatura:fullDrawers2:11, Darkwood Drawers 1x2
+StorageDrawersNatura:fullDrawers2:12, Fusewood Drawers 1x2
+StorageDrawersNatura:fullDrawers4:0, Eucalyptus Drawers 2x2
+StorageDrawersNatura:fullDrawers4:1, Sakura Drawers 2x2
+StorageDrawersNatura:fullDrawers4:2, Ghostwood Drawers 2x2
+StorageDrawersNatura:fullDrawers4:3, Redwood Drawers 2x2
+StorageDrawersNatura:fullDrawers4:4, Blood Drawers 2x2
+StorageDrawersNatura:fullDrawers4:5, Hopseed Drawers 2x2
+StorageDrawersNatura:fullDrawers4:6, Maple Drawers 2x2
+StorageDrawersNatura:fullDrawers4:7, Silverbell Drawers 2x2
+StorageDrawersNatura:fullDrawers4:8, Amaranth Drawers 2x2
+StorageDrawersNatura:fullDrawers4:9, Tigerwood Drawers 2x2
+StorageDrawersNatura:fullDrawers4:10, Willow Drawers 2x2
+StorageDrawersNatura:fullDrawers4:11, Darkwood Drawers 2x2
+StorageDrawersNatura:fullDrawers4:12, Fusewood Drawers 2x2
+StorageDrawersNatura:halfDrawers2:0, Compact Eucalyptus Drawers 1x2
+StorageDrawersNatura:halfDrawers2:1, Compact Sakura Drawers 1x2
+StorageDrawersNatura:halfDrawers2:2, Compact Ghostwood Drawers 1x2
+StorageDrawersNatura:halfDrawers2:3, Compact Redwood Drawers 1x2
+StorageDrawersNatura:halfDrawers2:4, Compact Blood Drawers 1x2
+StorageDrawersNatura:halfDrawers2:5, Compact Hopseed Drawers 1x2
+StorageDrawersNatura:halfDrawers2:6, Compact Maple Drawers 1x2
+StorageDrawersNatura:halfDrawers2:7, Compact Silverbell Drawers 1x2
+StorageDrawersNatura:halfDrawers2:8, Compact Amaranth Drawers 1x2
+StorageDrawersNatura:halfDrawers2:9, Compact Tigerwood Drawers 1x2
+StorageDrawersNatura:halfDrawers2:10, Compact Willow Drawers 1x2
+StorageDrawersNatura:halfDrawers2:11, Compact Darkwood Drawers 1x2
+StorageDrawersNatura:halfDrawers2:12, Compact Fusewood Drawers 1x2
+StorageDrawersNatura:halfDrawers4:0, Compact Eucalyptus Drawers 2x2
+StorageDrawersNatura:halfDrawers4:1, Compact Sakura Drawers 2x2
+StorageDrawersNatura:halfDrawers4:2, Compact Ghostwood Drawers 2x2
+StorageDrawersNatura:halfDrawers4:3, Compact Redwood Drawers 2x2
+StorageDrawersNatura:halfDrawers4:4, Compact Blood Drawers 2x2
+StorageDrawersNatura:halfDrawers4:5, Compact Hopseed Drawers 2x2
+StorageDrawersNatura:halfDrawers4:6, Compact Maple Drawers 2x2
+StorageDrawersNatura:halfDrawers4:7, Compact Silverbell Drawers 2x2
+StorageDrawersNatura:halfDrawers4:8, Compact Amaranth Drawers 2x2
+StorageDrawersNatura:halfDrawers4:9, Compact Tigerwood Drawers 2x2
+StorageDrawersNatura:halfDrawers4:10, Compact Willow Drawers 2x2
+StorageDrawersNatura:halfDrawers4:11, Compact Darkwood Drawers 2x2
+StorageDrawersNatura:halfDrawers4:12, Compact Fusewood Drawers 2x2
+StorageDrawersNatura:trim:0, Eucalyptus Trim
+StorageDrawersNatura:trim:1, Sakura Trim
+StorageDrawersNatura:trim:2, Ghostwood Trim
+StorageDrawersNatura:trim:3, Redwood Trim
+StorageDrawersNatura:trim:4, Blood Trim
+StorageDrawersNatura:trim:5, Hopseed Trim
+StorageDrawersNatura:trim:6, Maple Trim
+StorageDrawersNatura:trim:7, Silverbell Trim
+StorageDrawersNatura:trim:8, Amaranth Trim
+StorageDrawersNatura:trim:9, Tigerwood Trim
+StorageDrawersNatura:trim:10, Willow Trim
+StorageDrawersNatura:trim:11, Darkwood Trim
+StorageDrawersNatura:trim:12, Fusewood Trim
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, Bound Chest
 ThaumicExploration:floatCandle:0, White Floating Candle
@@ -40697,6 +41171,246 @@ ThermalDynamics:cover:0, Dark Oak Wood Planks Cover
 ThermalDynamics:cover:0, Dark Oak Wood Planks Cover
 ThermalDynamics:cover:0, Dark Oak Wood Planks Cover
 ThermalDynamics:cover:0, Dark Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Greatwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
+ThermalDynamics:cover:0, Silverwood Wood Planks Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
@@ -41716,16 +42430,16 @@ ThermalDynamics:cover:0, Mining Portal Cover
 ThermalDynamics:cover:0, Portal Frame Cover
 ThermalDynamics:cover:0, Sticky Ore Cover
 ThermalDynamics:cover:0, Transport Rail Cover
-ThermalDynamics:cover:0, Monitor Cover
-ThermalDynamics:cover:0, tile.fairyTorch.name Cover
 ThermalDynamics:cover:0, Traveler's Bricks Cover
+ThermalDynamics:cover:0, Rebounding Enigma Cover
+ThermalDynamics:cover:0, tile.fairyTorch.name Cover
+ThermalDynamics:cover:0, Monitor Cover
 ThermalDynamics:cover:0, Fortified Dirt Cover
 ThermalDynamics:cover:0, Fortified Planks Cover
 ThermalDynamics:cover:0, Fortified Glass Cover
 ThermalDynamics:cover:0, Fortified Cobblestone Cover
 ThermalDynamics:cover:0, Fortified Stone Cover
 ThermalDynamics:cover:0, Fortified Obsidian Cover
-ThermalDynamics:cover:0, Rebounding Enigma Cover
 ThermalDynamics:cover:0, Essentia Aggregator Cover
 ThermalDynamics:cover:0, Enchanting Bookshelf Cover
 ThermalDynamics:cover:0, Ensorcelled Bookshelf Cover
@@ -41816,25 +42530,25 @@ ThermalDynamics:cover:0, Flowerbed Cover
 ThermalDynamics:cover:0, Flowerbed Cover
 ThermalDynamics:cover:0, Flowerbed Cover
 ThermalDynamics:cover:0, Flowerbed Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Nitor Gas Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Gaseous Light Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Gaseous Light Cover
 ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Gaseous Shadow Cover
-ThermalDynamics:cover:0, Nitor Gas Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -44649,19 +45363,6 @@ ThermalDynamics:cover:0, Pine Trim Cover
 ThermalDynamics:cover:0, Hell Bark Trim Cover
 ThermalDynamics:cover:0, Jacaranda Trim Cover
 ThermalDynamics:cover:0, Mahogany Trim Cover
-ThermalDynamics:cover:0, Eucalyptus Trim Cover
-ThermalDynamics:cover:0, Sakura Trim Cover
-ThermalDynamics:cover:0, Ghostwood Trim Cover
-ThermalDynamics:cover:0, Redwood Trim Cover
-ThermalDynamics:cover:0, Blood Trim Cover
-ThermalDynamics:cover:0, Hopseed Trim Cover
-ThermalDynamics:cover:0, Maple Trim Cover
-ThermalDynamics:cover:0, Silverbell Trim Cover
-ThermalDynamics:cover:0, Amaranth Trim Cover
-ThermalDynamics:cover:0, Tigerwood Trim Cover
-ThermalDynamics:cover:0, Willow Trim Cover
-ThermalDynamics:cover:0, Darkwood Trim Cover
-ThermalDynamics:cover:0, Fusewood Trim Cover
 ThermalDynamics:cover:0, Larch Trim Cover
 ThermalDynamics:cover:0, Teak Trim Cover
 ThermalDynamics:cover:0, Acacia Trim Cover
@@ -44691,6 +45392,19 @@ ThermalDynamics:cover:0, Ipe Trim Cover
 ThermalDynamics:cover:0, Padauk Trim Cover
 ThermalDynamics:cover:0, Cocobolo Trim Cover
 ThermalDynamics:cover:0, Zebrawood Trim Cover
+ThermalDynamics:cover:0, Eucalyptus Trim Cover
+ThermalDynamics:cover:0, Sakura Trim Cover
+ThermalDynamics:cover:0, Ghostwood Trim Cover
+ThermalDynamics:cover:0, Redwood Trim Cover
+ThermalDynamics:cover:0, Blood Trim Cover
+ThermalDynamics:cover:0, Hopseed Trim Cover
+ThermalDynamics:cover:0, Maple Trim Cover
+ThermalDynamics:cover:0, Silverbell Trim Cover
+ThermalDynamics:cover:0, Amaranth Trim Cover
+ThermalDynamics:cover:0, Tigerwood Trim Cover
+ThermalDynamics:cover:0, Willow Trim Cover
+ThermalDynamics:cover:0, Darkwood Trim Cover
+ThermalDynamics:cover:0, Fusewood Trim Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Alchemite Cover
 ThermalDynamics:cover:0, Block of Chocolate Cover
@@ -45077,16 +45791,16 @@ wirelessindustry:QuantumEnderBoots, Ender Quantum Boots
 wirelessindustry:QuantumPortableCharger, Portable Wireless Charger
 wirelessindustry:ChannelSwitcher, Channel copier
 zettaindustries:zettaindustries.fakeitem, item.null.name
-zettaindustries:BlockTelecomunicationConnector,  Telecommunication Connector
-zettaindustries:SmartCard, Smart Card [WIP]
-zettaindustries:SmartCardTerminal, Smart Card Terminal [WIP]
-zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:backpack.creativeT1, item.null.name
 zettaindustries:backpack.creativeT2, item.null.name
 zettaindustries:backpack.engineeringT1, item.null.name
 zettaindustries:backpack.engineeringT2, item.null.name
 zettaindustries:backpack.opencomputersT1, item.null.name
 zettaindustries:backpack.opencomputersT2, item.null.name
+zettaindustries:BlockTelecomunicationConnector,  Telecommunication Connector
+zettaindustries:SmartCard, Smart Card [WIP]
+zettaindustries:SmartCardTerminal, Smart Card Terminal [WIP]
+zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 ztech:electricFishingRod, Electric Fishing Rod
 ztech:advancedElectricFishingRod, Advanced Electric Fishing Rod
 ztech:meltedSugar, Melted Sugar

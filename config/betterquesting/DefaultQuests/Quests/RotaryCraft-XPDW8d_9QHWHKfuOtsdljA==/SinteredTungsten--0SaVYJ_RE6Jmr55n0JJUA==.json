@@ -37,5 +37,23 @@
   "questIDHigh:4": -340977979721038770,
   "questIDLow:4": -8531297114527741616,
   "rewards:9": {},
-  "tasks:9": {}
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "RotaryCraft:rotarycraft_item_compacts"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
 }

@@ -194,48 +194,6 @@
     "url": [
         {
             "installationPolicy": {
-                "name": "Mantle"
-            },
-            "url": "https://github.com/Jonius7/Mantle/releases/download/1.7.10-0.5.1/Mantle-1.7.10-0.5.1.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "EnderCore"
-            },
-            "url": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.8/endercore-0.4.8.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "OpenModsLib"
-            },
-            "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.10/OpenModsLibs-0.10.10.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "MrTJPCore"
-            },
-            "url": "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.4/MrTJPCore-1.3.4.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "BrandonsCore"
-            },
-            "url": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "LunatriusCore"
-            },
-            "url": "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.1-GTNH/LunatriusCore-1.2.1-GTNH.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "Immibis Core"
-            },
-            "url": "https://www.immibis.com/minecraft/series1/i-understand-the-license-has-probably-changed/files/immibis-core-59.1.4.jar"
-        },
-        {
-            "installationPolicy": {
                 "name": "AsieLib"
             },
             "url": "https://github.com/GTNewHorizons/AsieLib/releases/download/0.7.0/AsieLib-0.7.0.jar"
@@ -248,9 +206,22 @@
         },
         {
             "installationPolicy": {
-                "name": "ModularUI2"
+                "name": "BrandonsCore"
             },
-            "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.17-1.7.10/modularui2-2.2.17-1.7.10.jar"
+            "url": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "EnderCore"
+            },
+            "url": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.8/endercore-0.4.8.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "ForgeMultipart"
+            },
+            "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.8/ForgeMultipart-1.6.8.jar",
+            "folder": "mods/1.7.10"
         },
         {
             "installationPolicy": {
@@ -260,10 +231,39 @@
         },
         {
             "installationPolicy": {
-                "name": "ForgeMultipart"
+                "name": "Immibis Core"
             },
-            "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.8/ForgeMultipart-1.6.8.jar",
-            "folder": "mods/1.7.10"
+            "url": "https://www.immibis.com/minecraft/series1/i-understand-the-license-has-probably-changed/files/immibis-core-59.1.4.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "LunatriusCore"
+            },
+            "url": "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.1-GTNH/LunatriusCore-1.2.1-GTNH.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "Mantle"
+            },
+            "url": "https://github.com/Jonius7/Mantle/releases/download/1.7.10-0.5.1/Mantle-1.7.10-0.5.1.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "ModularUI2"
+            },
+            "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.17-1.7.10/modularui2-2.2.17-1.7.10.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "MrTJPCore"
+            },
+            "url": "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.4/MrTJPCore-1.3.4.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "OpenModsLib"
+            },
+            "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.10/OpenModsLibs-0.10.10.jar"
         }
     ],
     "modrinth": []
